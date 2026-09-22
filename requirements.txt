@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sqlalchemy
+psycopg2-binary
+openpyxl
+tabulate
+scikit-learn
+lifelines
+streamlit
+plotly
+pyarrow
+google-cloud-firestore

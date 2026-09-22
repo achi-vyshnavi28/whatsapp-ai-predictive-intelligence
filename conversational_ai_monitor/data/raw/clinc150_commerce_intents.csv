@@ -1,0 +1,2151 @@
+text,intent_name
+i need $20000 transferred from my savings to my checking,transfer
+complete a transaction from savings to checking of $20000,transfer
+transfer $20000 from my savings account to checking account,transfer
+take $20000 from savings and put it in checking,transfer
+put $20000 into my checking account from my savings account,transfer
+send 100 dollars between bank of the west and bank of america acccounts,transfer
+send 50 dollars between bank of america and chase accounts,transfer
+send 2000 dollars between chase and rabobank accounts,transfer
+send 1200 dollars between usaa and navy federal accounts,transfer
+send 400 dollars between city bank and usaa accounts,transfer
+take $40 and transfer it to account a from b,transfer
+transfer $40 from account a to b,transfer
+move $40 from account b to account a,transfer
+put $40 from account a to b,transfer
+take $40 from account a and transfer it to account b,transfer
+i need to transfer from this account to that one,transfer
+need to transfer from one account to my other one,transfer
+i would like to transfer from one account to my second one,transfer
+i need to transfer from one account to my second one,transfer
+i have to transfer from one account to my other one,transfer
+send fifty dollars from me to carrie,transfer
+transfer sixty dollars to dad from my biggest accnt,transfer
+send over a hundred dollars from huntington into saving,transfer
+move 57 dollars from saving into mom,transfer
+transfer two hundred dollars between my portfolio and my money market account,transfer
+i need to transfer ten dollars from my bank of america account to my capital one account,transfer
+go ahead and send ten dollars from bank of america to capital one,transfer
+i must transfer ten dollars from my bank of america account to my capital one account,transfer
+i got to transfer ten dollars from my bank of america account to my capital one account,transfer
+i want you to send ten dollars from bank of america to capital one,transfer
+i need you to send ten dollars from bank of america to capital one,transfer
+i have to transfer ten dollars from my bank of america account to my capital one account,transfer
+send ten dollars from bank of america to capital one,transfer
+please send ten dollars from bank of america to capital one,transfer
+make a transfer of $200 from my savings account to my checking account,transfer
+please transfer $250 from checking to savings,transfer
+transfer $500 from my checking to my savings,transfer
+please transfer $100 from my checking to my savings account,transfer
+transfer $500 from my money market savings account to my checking account,transfer
+send money from one account to another,transfer
+transfer 200 dollars from paypal to savings,transfer
+transfer $10 from checking to savings,transfer
+send $100 from paypal to my bank,transfer
+please transfer 100 dollars between my amazon payments and savings accounts,transfer
+i would like to make a transfer,transfer
+i want to transfer funds between accounts,transfer
+send over 50 dollars between my shared and not shared accounts,transfer
+whats the quickest way to money from one account to another,transfer
+what is the process to move money from one account to another,transfer
+i need you to send 500 dollars from my high tier account to my regular checking account,transfer
+can you transfer money from a to b,transfer
+send my money between accounts,transfer
+how can i send money from one account to another,transfer
+i need to move money from one account to another,transfer
+send $20 from debit to steve's account,transfer
+send 20 dollars from savings to checking,transfer
+please transfer my funds,transfer
+please transfer $50 to my checking account from credit,transfer
+go ahead and move $200 from amazon to my bank account,transfer
+help me move my money,transfer
+i need my money to be moved,transfer
+help me move my money please,transfer
+i need to move my money,transfer
+move my money please,transfer
+i would like to transfer $5 from savings to checking,transfer
+transfer $5 from savings to checking,transfer
+can you transfer $5 from savings to checking,transfer
+send $5 from savings to checking,transfer
+please transfer $5 from savings to checking,transfer
+please switch $s checking to mortage,transfer
+please transfer $s from saving to checking,transfer
+could you transfer $x from saving to checking,transfer
+help me transfer $x from credit to debit,transfer
+please transfer $x from checking to saving,transfer
+transfer money to another account,transfer
+requesting money transfer between accounts,transfer
+transfer money from this account to that account,transfer
+can you transfer money from my account,transfer
+money transfer request,transfer
+send 100 dollars from checking to savings,transfer
+transfer 100 dollars checking to savings,transfer
+transfer 100 dollars between checking and savings,transfer
+take 100 dollars from checking and send it to savings,transfer
+move 100 dollars from checking to savings,transfer
+can we wire some money over to the other account i have,transfer
+time to move some cash from one account to another,transfer
+i need to throw some money into that other account,transfer
+let's send some money to another account,transfer
+i want to initiate a transfer from one account to the other,transfer
+transfer money from one place to another,transfer
+move money from one account to another,transfer
+transfer between two accounts,transfer
+make a transfer between accounts,transfer
+send money to another account,transfer
+i need ten dollars sent from b of a to washington mutual,transfer
+transfer fifty dollars between my chase and bank of america account,transfer
+deposit ten bucks from my chase account to my ally account,transfer
+put a hundred dollars in my ally account from bluebird,transfer
+i want seventy bucks transferred from b of a to chase,transfer
+can i initiate a one-time transfer from my savings account to my money market account,transfer
+does ireland have any travel alerts i should be aware of,travel_alert
+does north korea have any travel alerts i should be aware of,travel_alert
+are there any travel alerts for russia,travel_alert
+does spain have any travel alerts i should be aware of,travel_alert
+are there any travel alerts for north korea,travel_alert
+does macedonia have any travel alerts i should be aware of,travel_alert
+are there any travel alerts for syria,travel_alert
+are there any travel alerts for ukraine,travel_alert
+does myanmar have any travel alerts i should be aware of,travel_alert
+are there any travel alerts for china,travel_alert
+is there a travel alert for russia,travel_alert
+is there a travel alert for scotland,travel_alert
+does russia have any travel alerts i should be aware of,travel_alert
+is it safe to travel to iceland,travel_alert
+is it safe to travel to russia,travel_alert
+does italy have any travel alerts i should be aware of,travel_alert
+does germany have any travel alerts i should be aware of,travel_alert
+is there a travel alert for north korea,travel_alert
+does china have any travel alerts i should be aware of,travel_alert
+is there a travel alert for canada,travel_alert
+is it safe to travel to norway,travel_alert
+is it safe to travel to bermuda,travel_alert
+is it safe to travel to argentina,travel_alert
+does finland have any travel alerts i should be aware of,travel_alert
+is there a travel alert for spain,travel_alert
+have there been any travel alerts issued for france,travel_alert
+tell me about any travel alerts issued for germany,travel_alert
+are there any travel warnings for london,travel_alert
+should i know about any travel alerts before traveling in the usa,travel_alert
+are there any new travel warnings for the us,travel_alert
+any travel advisories for portugal,travel_alert
+can you tell me if germany issued any travel warnings,travel_alert
+does france have any current travel alerts,travel_alert
+does spain expect any travel alerts,travel_alert
+i am going to australia and want to be notified of any travel alerts,travel_alert
+"i am going to be traveling in turkey, are there any alerts",travel_alert
+are there any alerts for traveling in belize,travel_alert
+what alerts are listed for traveling to paris,travel_alert
+i need to know about travel alerts for mexico,travel_alert
+what travel alerts are there in china,travel_alert
+are there any alerts for travelling to beirut,travel_alert
+argentina travel alert yes or no,travel_alert
+does argentina have a travel alert,travel_alert
+is there a travel alert in argentina,travel_alert
+list of countries with travel alerts,travel_alert
+can traveling to nepal be safe (what's safe in x),travel_alert
+will i be safe while traveling to lyon (will you be safe),travel_alert
+how safe is it to travel to mongolia (how safe is mongolia),travel_alert
+is it safe to travel to rio de janeiro (is rio de janeiro safe),travel_alert
+is traveling to dublin safe (will dublin be safe),travel_alert
+is new caledonia safer than other countries,travel_alert
+is las vegas a safe place to visit,travel_alert
+if i go to baltimore will i be safe,travel_alert
+"can you give me the travel alerts for jalisco, mexico",travel_alert
+what are the latest travel alerts for dubai,travel_alert
+"are there any travel alerts i should know about for buenos aires, argentina",travel_alert
+i need any relevant travel alerts for australia,travel_alert
+are there travel notifications for columbia,travel_alert
+where in the world is there a travel alert,travel_alert
+what are today's travel advisories,travel_alert
+can you list the places that there are travel alerts for,travel_alert
+where are there current travel alerts,travel_alert
+is there a travel alert for [country],travel_alert
+if i got to indonesia is it safe,travel_alert
+i am thinking of going to brazil and was wondering if that is hazardous,travel_alert
+would it be safe to go to columbia,travel_alert
+is mexico a safe place,travel_alert
+what potential hazards are there for going to spain,travel_alert
+does a travel alert exist for that country,travel_alert
+inform me if there's a travel alert for the country,travel_alert
+does the country have a travel alert,travel_alert
+i'd like to see if there's a travel alert for the country,travel_alert
+can you tell me if there's a travel alert for that country,travel_alert
+any travel alerts for south korea,travel_alert
+are there travel alerts for europe,travel_alert
+what are the currect travel alerts in africa,travel_alert
+can i safely travel to brazil,travel_alert
+does japan have any travel alerts i should be aware of,travel_alert
+is there travel alerts for greece,travel_alert
+how safe is it to travel to germany,travel_alert
+is it safe to travel to china,travel_alert
+is it safe to fly to russia,travel_alert
+does france have any travel alerts i should be aware of,travel_alert
+look for travel alerts for china,travel_alert
+does south korea have any travel alerts i should be aware of,travel_alert
+is it dangerous to travel to mexico,travel_alert
+any travel alerts for canada,travel_alert
+any travel alerts for that country i should know about,travel_alert
+are there any travel alerts in that region,travel_alert
+i need to know the travel alerts for kenya,travel_alert
+any alerts for travelers to canada,travel_alert
+should i be worried about any travel alerts for that country,travel_alert
+look up travel alerts for canada,travel_alert
+is there a travel alert for that country,travel_alert
+find if there are any travel alerts for canada,travel_alert
+search for any travel alerts for canada,travel_alert
+does kenya have any travel alerts right now,travel_alert
+check travel alerts for kenya,travel_alert
+do i need to read any travel alerts for kenya,travel_alert
+search for travel alerts for kenya,travel_alert
+"you need to call the melt in lakewood for a table for at 2:00, monday, the first week in march",restaurant_reservation
+"hey computer, make a reservation for 2 for my parents at red lobster on wednseday next, 2:00pm if possible",restaurant_reservation
+"i think we should reserve dad's regular table friday for 6 people, use his name, make that close to 4:00 pm at the club",restaurant_reservation
+"listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm",restaurant_reservation
+can you make me a reservation for 4 pm on the 22nd at ruth's,restaurant_reservation
+i need a reservation at 8 on the 22nd of november at ruth's,restaurant_reservation
+can i make a reservation for 6 pm on the 21st at sidetracks,restaurant_reservation
+please reserve me a table at hell's kitchen on may 3rd at 8 pm,restaurant_reservation
+please reserve me a table for 2 pm at maxwell's on the 14th,restaurant_reservation
+can you make a reservation for me at the restaurant,restaurant_reservation
+can you make a reservation at the restaurant for tomorrow,restaurant_reservation
+can you book a table at the restaurant for me and my husband,restaurant_reservation
+can you make a reservation at the restaurant for tonight,restaurant_reservation
+can you get me a table for 6 at mark's at 11am,restaurant_reservation
+can you get me a table for 1 at the vega at 1pm,restaurant_reservation
+can you get a table for 5 at joe's at 5pm,restaurant_reservation
+can you get me a table for 3 at captain d's at 2pm,restaurant_reservation
+can you get me a table for 2 at mexico viejo at 3pm,restaurant_reservation
+can you get me a table for 2 at diablo,restaurant_reservation
+can you get me a table for 5 at johnnys,restaurant_reservation
+can you get me a table for 8 at johnnys,restaurant_reservation
+can you get me a table for 6 at johnnys,restaurant_reservation
+can you get me a table for 4 at steve's,restaurant_reservation
+reserve a table for 3 at outback steakhouse under the name lance at 7:00pm,restaurant_reservation
+reserve a table for 4 at red lobster under the name dave at 7:30pm,restaurant_reservation
+reserve a table for 6 at morton's under the name jaime at 8:30pm,restaurant_reservation
+can you get me a table for 3 at olive garden at 7pm,restaurant_reservation
+book a reservation for 6 at shakey's under the name jason,restaurant_reservation
+reserve a table for 5 at lawry's under the name steve at 8:00pm,restaurant_reservation
+book a reservation for 5 at lawry's under the name chris,restaurant_reservation
+reserve a table for 2 at olive garden under the name jim at 6:00pm,restaurant_reservation
+book a reservation for 4 at outback steakhouse under the name dave,restaurant_reservation
+can you get me a table for 5 at outback steakhouse at 6:30pm,restaurant_reservation
+book a reservation for 3 at red lobster under the name steve,restaurant_reservation
+book a reservation for 2 at olive garden under the name jim,restaurant_reservation
+can you get me a table for 8 at mastro's at 8:30pm,restaurant_reservation
+can you get me a table for 4 at red lobster at 8pm,restaurant_reservation
+can you get me a table for 6 at lawry's at 7:30pm,restaurant_reservation
+is it possible to get a table for 4 at the village inn around 10am,restaurant_reservation
+can you get me a table for 5 at mcdonalds at 5pm,restaurant_reservation
+give me a table for 3 at o'reilly's bar for 7 please,restaurant_reservation
+can i have a table held at the outback steakhouse for johnson at 5,restaurant_reservation
+is it possible to book a room at the taco bell for reavers at 3,restaurant_reservation
+i'd like to set up a reservation for kibble at 4,restaurant_reservation
+can i reserve a table for 2 at the olive garden at 8,restaurant_reservation
+i want to reserve a table at 8 at long john silver's under the name freddie,restaurant_reservation
+i want to have a table for 2 at the broadmore around 6,restaurant_reservation
+i need an 8 o'clock reservation at pizza hut for the last name mercury,restaurant_reservation
+"hey, i need to make a reservation for three at umi, six pm on february 30th",restaurant_reservation
+"hello, i'd like a reservation for two at the olive garden at six tonight",restaurant_reservation
+can you set me up for a reservation for five at outback steakhouse on february 28th at seven pm,restaurant_reservation
+"i need a reservation for one at applebee's, four in the afternoon on march 3rd",restaurant_reservation
+"please make a reservation for me: party of two, february 22nd at chili's, two in the afternoon",restaurant_reservation
+i gotta make a reservation for 8 pm at red robin for 3,restaurant_reservation
+can i make a reservation for 8 pm at red robin for 3,restaurant_reservation
+please book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation
+i want you to book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation
+you have to reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation
+please reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation
+i need you to reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation
+reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation
+i want to make a reservation for 8 pm at red robin for 3,restaurant_reservation
+you must reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation
+i think i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation
+i need you to book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation
+go ahead and book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation
+i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation
+book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation
+would you please make a reservation for 2 at olive garden for 5 pm today,restaurant_reservation
+i'd like a reservation for 2 at olive garden for 5 pm today,restaurant_reservation
+could you make reservations for 2 at olive garden for 5 pm today,restaurant_reservation
+make a reservation at 5 pm today for 2 at olive garden,restaurant_reservation
+please make a reservation for 2 at olive garden for 5 pm today,restaurant_reservation
+i need you to reserve a table for 6:00 pm for three at devon's seafood,restaurant_reservation
+make a reservation for three at prime rib at 6:30 pm,restaurant_reservation
+i would like a reservation for 6:30 pm at pietro's under the name david jones,restaurant_reservation
+please reserve a table for two at rouge for 7:00 pm,restaurant_reservation
+can you get me a table for two for 8:00 pm at parc,restaurant_reservation
+i would like you to secure a 4:30 pm reservation for five people at morton's steakhouse,restaurant_reservation
+"call and make a 5:45 pm reservation for jason rogers, table for four",restaurant_reservation
+i need you to reserve at table for a party of four at devon's for 6:00 pm,restaurant_reservation
+reserve a table for two for 7:30 pm at dibruno's under patrick donoghue,restaurant_reservation
+please make a reservation at ruth's steaks for a party of five at 7:00 pm under jack arnold,restaurant_reservation
+"can i make a reservation for 2 at state bird for 7:30, please",restaurant_reservation
+"can i make a reservation for 2 at state bird for 8:30, please",restaurant_reservation
+"can i make a reservation for 2 at state bird for 6:30, please",restaurant_reservation
+"can i make a reservation for 3 at state bird for 8:30, please",restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30,restaurant_reservation
+please make a reservation for us at joy bar for 4 adults,restaurant_reservation
+please make me a reservation for monty's at noon for 55555,restaurant_reservation
+"now, i need a reservation for backwoods crossing at seven for 6 people",restaurant_reservation
+make me a reservation for tomorrow at happys for four,restaurant_reservation
+make me a reservation for 5 at coral for 10 pm immediately,restaurant_reservation
+can you reserve a table for 2 at red lobster at 8pm,restaurant_reservation
+schedule me a table for 2 at red lobster at 8,restaurant_reservation
+check reservation availability for 2 at red lobster at 8pm,restaurant_reservation
+make a reservation for 2 at red lobster at 8pm,restaurant_reservation
+reserve a table for 2 at red lobster at 8:00,restaurant_reservation
+reserve a table for four for tonight at 7 at the fatted calf,restaurant_reservation
+make a reservation for tuesday at 7:00 pm at cielo for 2,restaurant_reservation
+verify that i have reservations at chilis for john doe,confirm_reservation
+can you check my reservations for mortons under david winters,confirm_reservation
+can you check for reservations at wongs chinese for john acer,confirm_reservation
+check and confirm reservations at ruth chris for carol lee,confirm_reservation
+verify that my reservations at won wons for joe lee are good,confirm_reservation
+check on my reservation for umami at 6pm,confirm_reservation
+"confirm a reservation for nicole brown at diangelo's at 6:45 pm, please",confirm_reservation
+i need you to confirm that there is a reservation under the name david kramer for 7:00 pm at pietro's,confirm_reservation
+"i would like to confirm my 7:30 pm reservation at morton's steakhouse, under michael james",confirm_reservation
+can you please confirm that i have a 6:00 pm table reserved under michelle solomon at devon's,confirm_reservation
+"please confirm my reservation at parc for 8:00 pm, with the name denise jack",confirm_reservation
+please confirm my reservation for thursday at 10am,confirm_reservation
+does it show me as having a reservation for tomorrow at 5,confirm_reservation
+can you confirm my reservation for 6 at the outback,confirm_reservation
+can you check that i have a reservation on february 28th for 3 in the afternoon,confirm_reservation
+i want to make sure my reservation for 5 at mcdonalds is still set,confirm_reservation
+i want to verify my reservation for the 18th at 1pm,confirm_reservation
+"do i have a reservation for may 1st, 2019 at 4 pm",confirm_reservation
+can you verify that i have a reservation at o'reilly's for 9,confirm_reservation
+can you assure me i have a table at taco bell at 7pm,confirm_reservation
+is my 10am village inn reservation valid,confirm_reservation
+please confirm my reservation for morton's at 5 pm,confirm_reservation
+do i have reservations at o'neal's at 3 pm,confirm_reservation
+is my reservation confirmed for lu shi at 7 pm,confirm_reservation
+confirm my reservation at dino's at 6 pm,confirm_reservation
+please tell me if my reservation is scheduled for sally's at 3 pm,confirm_reservation
+check to see if i have reservations at prado at 6 pm,confirm_reservation
+tell me if i have reservations at the back abbey at 6 pm,confirm_reservation
+do you know if my reservation for dono is confirmed at 8 pm,confirm_reservation
+do i have reservations at creme at 7 pm,confirm_reservation
+i need to know if i have reservations at arufflo at 5 pm,confirm_reservation
+i really need you to confirm my reservation for kevin at red robin,confirm_reservation
+can you confirm my reservation for kevin at red robin,confirm_reservation
+i wanna confirm my reservation for 2/20 at 8 pm,confirm_reservation
+i'd like to confirm my reservation for 2/20 at 8 pm,confirm_reservation
+i would like for you to confirm my reservation for red robin at 5 pm,confirm_reservation
+i must confirm my reservation for 2/20 at 8 pm,confirm_reservation
+i really want to confirm that i have a reservation at red robin for josh,confirm_reservation
+i need you to confirm my reservation for kevin at red robin,confirm_reservation
+will you confirm my reservation for red robin at 10,confirm_reservation
+i wanna try and confirm that i have a reservation at red robin for josh,confirm_reservation
+i need to confirm that i have a reservation at red robin for josh,confirm_reservation
+please confirm my reservation for red robin at 9,confirm_reservation
+i wish to confirm that i have a reservation at red robin for josh,confirm_reservation
+i need to confirm my reservation for 2/20 at 8 pm,confirm_reservation
+go ahead and confirm my reservation for kevin at red robin,confirm_reservation
+please confirm my reservation for 2/20 at 8 pm,confirm_reservation
+confirm my reservation for red robin at 8,confirm_reservation
+i need you to confirm my reservation for outback steakhouse at 6,confirm_reservation
+please confirm my reservation for kevin at red robin,confirm_reservation
+i'd like to confirm that i have a reservation at red robin for josh,confirm_reservation
+will you make sure robert has a reservation at ruth's steakhouse,confirm_reservation
+do i still have the reservation on march 21 at 8pm,confirm_reservation
+can you check that there's a reservation for mark at sidetracks,confirm_reservation
+will you check there is a reservation for laura at black pearl,confirm_reservation
+i need to make sure there is a reservation for george at connor oneil's,confirm_reservation
+can you confirm my reservation for 6 pm on the 13th of february,confirm_reservation
+can you confirm i have a reservation at 5 pm on march 13th,confirm_reservation
+can you confirm my reservation for 8 pm on the 7th of november,confirm_reservation
+please confirm i have a reservation for 2 pm on february 21st,confirm_reservation
+can you verify mike has a reservation at black rock at 6 pm,confirm_reservation
+i want my reservation for march 1 at 8 pm confirmed,confirm_reservation
+will you please confirm my reservation for march 11 at 6:30 pm,confirm_reservation
+i would like you to confirm my reservation for next saturday at 11 am,confirm_reservation
+i need you to confirm my reservation for tomorrow at 3 pm,confirm_reservation
+check to confirm my reservation for february 22 at noon,confirm_reservation
+i would like to try and confirm that i have a reservation at houlihan’s for mike,confirm_reservation
+i would like to try and confirm that i have a reservation at the seven dwarves for peter,confirm_reservation
+i would like to try and confirm that i have a reservation at hu hot for paulie,confirm_reservation
+i would like to try and confirm that i have a reservation at macaroni grill for saul,confirm_reservation
+i would like to try and confirm that i have a reservation at chili’s for melinda,confirm_reservation
+i would like to try and confirm that i have a reservation at macaroni grill for silva,confirm_reservation
+i would like to try and confirm that i have a reservation at kelly's for moreno,confirm_reservation
+i would like to try and confirm that i have a reservation at la palapa for bolding,confirm_reservation
+i would like to try and confirm that i have a reservation at gusteau's for krystine,confirm_reservation
+i would like to try and confirm that i have a reservation at chili's for jamie,confirm_reservation
+can you confirm my reservation for jim at lawry's,confirm_reservation
+can you confirm my reservation for dave at outback steakhouse,confirm_reservation
+can you confirm my reservation for lance at morton's,confirm_reservation
+can you confirm my reservation for steve at olive garden,confirm_reservation
+can you confirm my reservation for jaime at red lobster,confirm_reservation
+i'd like for you to make sure my reservation is there for charlie's under jack,confirm_reservation
+can you check and see i have a reservation under alex for bon apetite,confirm_reservation
+can you verify my reservation under steve for friendly's,confirm_reservation
+make sure my reservation is happening for john at olive garden,confirm_reservation
+double check my reservation under adam for outback steakhouse,confirm_reservation
+please confirm my reservation for april 1st at 9am,confirm_reservation
+please confirm my reservation for march 8th at 12:00,confirm_reservation
+can you confirm my reservation for donnobys at 5:00,confirm_reservation
+can you confirm my reservation for minnis at 4:00,confirm_reservation
+please confirm my reservation for may 9th at 4pm,confirm_reservation
+please confirm my reservation for march 1st at 2pm,confirm_reservation
+can you confirm my reservation for torris at 7:00,confirm_reservation
+can you confirm my reservation for applebees at 2:00,confirm_reservation
+can you confirm my reservation for chillis at 8:00,confirm_reservation
+please confirm my reservation for feburary 21st at 6pm,confirm_reservation
+confirm my taco house reservation for jean,confirm_reservation
+can you you confirm my reservation for jean at taco house,confirm_reservation
+does taco house have a reservation for jean,confirm_reservation
+i would like to check my reservation for jean at taco house,confirm_reservation
+before i make my mastercard payment can you tell me what i've recently charged on it,transactions
+please tell me all of my recent transactions,transactions
+i want to pay my amazon credit card but i need to know the last few transactions,transactions
+before i pay my walmart credit card did i make any purchases using it recently,transactions
+i need to know all the recent transactions i've made,transactions
+please tell me all the transactions i've made recently,transactions
+what are the last ten transactions i've made,transactions
+"before i pay my capital one, what are the most recent transactions i've made",transactions
+tell me the most recent charges on my chase credit card before i pay the bill,transactions
+read off to me the last five transactions i've made,transactions
+what transactions have i made on liquor in the past month,transactions
+i'd like to see last week's atm transactions,transactions
+show me the transactions from costco yesterday,transactions
+i need to know something about my latest transaction,transactions
+can you check on a transaction for me,transactions
+i need some information on a recent transaction,transactions
+i need a recent transaction looked into,transactions
+can you let me know my latest transactions,transactions
+what was the last thing i purchased,transactions
+what did i buy last,transactions
+how much did my last purchase cost,transactions
+how expensive was my most recent transaction,transactions
+when was my most recent transaction,transactions
+show me the transactions made on my business card for supplies last quarter,transactions
+may i get all of the food transactions that were made last month,transactions
+can you show me the transactions that were made last night at the restaurant,transactions
+what transactions did i make yesterday at the flea market,transactions
+please show me what transactions i made on the first of this month,transactions
+please tell me my in-person transactions for the last three days using my debit card,transactions
+please give me my last ten debit card transactions in the month of december,transactions
+what were my last five transactions on my visa card,transactions
+i would like to hear all transactions made on my amex for the last ten days,transactions
+can you list all of my online transactions for the month of january,transactions
+show me my transactions on groceries,transactions
+show me my transactions on tacobell,transactions
+show me my transactions on make up at sephora,transactions
+show me my transactions on mcdonalds,transactions
+show me my transactions on clothes at macys,transactions
+let me see the list of tranaction on my discovery credit card,transactions
+let me know the list of transaction on my first hawaiian bank,transactions
+i want to see the list of transaction on my bank of hawaii,transactions
+list me my recent transaction,transactions
+what are my recent transaction,transactions
+please show me my recent transaction,transactions
+i want to see my recent transaction,transactions
+let me check my transaction for first bank card,transactions
+let me check my transaction on my citi card,transactions
+show me my recent transactoin,transactions
+on my card what have been my recent purchases,transactions
+pull up my recent transactions on my mastercard,transactions
+on the card can you give me the last transactions,transactions
+whats my recent transactions on my card,transactions
+on my card what all are my latest transactions,transactions
+show my transaction statement,transactions
+retrieve my recent transactions,transactions
+view my transactions for the last week,transactions
+my transaction history,transactions
+may transactions for last 2 days,transactions
+what was my last transaction,transactions
+show me recent transactions,transactions
+what transactions happened in the last week,transactions
+show me the last month of transactions,transactions
+show me the last five transactions,transactions
+what's the last transaction i made yesterday,transactions
+show me yesterday's last transaction,transactions
+open yesterday's last payment,transactions
+show me last transaction,transactions
+show me transactions related to travel,transactions
+help me get access to my recent transaction history,transactions
+i need to see my shopping transactions,transactions
+get me access to a list of my recent transactions,transactions
+i would like to take a look at my transaction history,transactions
+can you pull up my most recent transactions,transactions
+i want to see my entertainment transactions,transactions
+where can i find my recent transaction history,transactions
+can you show me transactions related to utilities,transactions
+pull up my grocery transactions,transactions
+what were my purchases on visa card last month,transactions
+i spent what dollar amount last month on mastercard,transactions
+what was the amount that i spent on fidelity visa last month,transactions
+what did i spend at target on my barclays card last month,transactions
+what amount did i spend for food on chase visa on current bill,transactions
+i need to know last months transactions,transactions
+i need to know the transactions i made on the 10th,transactions
+i would like to see the transactions i made last week,transactions
+can i see my transactions on the 7th,transactions
+can i get my transactions for the date of the 23rd,transactions
+show me the transaction on burger king,transactions
+show me the transaction on macys,transactions
+show me the transaction on mcdonald,transactions
+show me the transaction on the food,transactions
+show me the transaction on my car,transactions
+bring up all purchases from target,transactions
+show me my transactions within the past week,transactions
+can i see my transactions from yesterday,transactions
+show me all gas purchases within the last month,transactions
+can you list all recent transactions,transactions
+bring up my most recent purchases,transactions
+i need to see all visa purchases for march,transactions
+"looking at january, show all wine purchases",transactions
+"i want to pay my bill, please",pay_bill
+pay my water bill with my charles schwab account,pay_bill
+i'd like to pay my bill,pay_bill
+pay my internet bill with my discover account,pay_bill
+can you help me pay a bill,pay_bill
+i need to pay my bill,pay_bill
+can i pay a bill,pay_bill
+use my capital one account to pay for my gas bill,pay_bill
+pay my electric bill from my amex account,pay_bill
+i want to pay my house bill,pay_bill
+i want to pay my car bill,pay_bill
+i want to pay my insurance bill,pay_bill
+i want to pay my tax bill,pay_bill
+i need help paying my auto insurance bill,pay_bill
+i need help paying my hoa bill,pay_bill
+i need help paying my tuition bill,pay_bill
+i need help paying my phone bill,pay_bill
+"my water bill is due, pay it immediately",pay_bill
+i need to pay my water bill,pay_bill
+please go ahead and make my student loan payment,pay_bill
+go ahead and pay my american express bill now,pay_bill
+i need to pay my electric bill now,pay_bill
+can you assist me in paying my electric bill,pay_bill
+i want to do a payment on my water bill,pay_bill
+pay my mortgage from my checkings accounts,pay_bill
+do a car payment from my savings account,pay_bill
+can you give me a hand paying my water bill,pay_bill
+i want to pay off my student loan,pay_bill
+i need a bit of hand holding getting my trash bill paid,pay_bill
+i need to pay my mortgage,pay_bill
+are you able to help me pay my mortgage,pay_bill
+i want to pay my car payment,pay_bill
+i need to pay this month's tv subscription fee,pay_bill
+will you aid me in paying my insurance premium,pay_bill
+pay a bribe using my money market account,pay_bill
+use my savings account to the pay the rent,pay_bill
+use my checkings account to pay the electric bill,pay_bill
+i'd like to pay my coned bill,pay_bill
+please help with paying my cell phone bill,pay_bill
+i'd like to make a payment on my credit card bill,pay_bill
+i would like to pay my cell phone bill,pay_bill
+please help me pay my cable bill,pay_bill
+please tell me how to pay my gas bill,pay_bill
+i need to get help paying my gas bill,pay_bill
+i need help to pay my electric bill,pay_bill
+can you help me pay my phone bill,pay_bill
+will you take my bill payment,pay_bill
+is it possible to pay my bill,pay_bill
+how can i pay my bill,pay_bill
+can i pay my bill,pay_bill
+use my park bank account to pay my electric bill,pay_bill
+pay my electric bill from my park bank account,pay_bill
+pay my gas bill from my saving account,pay_bill
+pay my cable bill from my facebook account,pay_bill
+pay my cell bill from my deposit account,pay_bill
+pay my electric bill from my paypal account,pay_bill
+pay my water bill from my checking account,pay_bill
+pay my phoe bill with my debit card,pay_bill
+schedule a gas bill payment,pay_bill
+pay the cable bill with my visa card,pay_bill
+pay the red cross the monthly donation,pay_bill
+i want to pay my internet bill,pay_bill
+i want to pay my gas bill,pay_bill
+i want to pay my electric bill,pay_bill
+i want to pay my rent bill,pay_bill
+i want to pay my water bill,pay_bill
+make a payment on the electric bill,pay_bill
+help me pay my electric bill,pay_bill
+pay the electric bill,pay_bill
+pay electric,pay_bill
+please pay electric bill,pay_bill
+i got to pay my cable bill,pay_bill
+i need help paying my store bill,pay_bill
+i wanna pay my cable bill from my checking account,pay_bill
+i need help paying my cable bill,pay_bill
+pay my cable bill from my checking account,pay_bill
+i must pay my cable bill from my checking account,pay_bill
+i gotta pay my cable bill,pay_bill
+i must pay my cable bill,pay_bill
+i wish to pay my cable bill,pay_bill
+i need to pay my cable bill,pay_bill
+i need help paying my rent bill,pay_bill
+i need help paying my water bill,pay_bill
+i really want to pay my cable bill from my checking account,pay_bill
+i need help paying my electric bill,pay_bill
+i need to pay my cable bill from my checking account,pay_bill
+what's the best way to pay my bill,pay_bill
+i'd really like to pay this bill,pay_bill
+can you help me pay this bill,pay_bill
+i am not sure how to pay my phone bill and need assistance,pay_bill
+i need to make a bill payment,pay_bill
+please pay my bill,pay_bill
+can anyone help me pay my car bill,pay_bill
+i want to pay that bill now,pay_bill
+is there anyone available to help pay an internet bill,pay_bill
+i need anyone who can help me pay my electric bill,pay_bill
+help me pay my cable bill,pay_bill
+can you pay the bill now,pay_bill
+i need your help to pay my gas bill,pay_bill
+pay my insurance bill,pay_bill
+how much did i spend at restaurants last week,spending_history
+how much have i spent lately on eating out,spending_history
+what did i spend at the grocery store yesterday,spending_history
+how much money did i spend at starbucks in the last week,spending_history
+what was the total i spent at home depot last month,spending_history
+where did all my money go this month,spending_history
+what have my expenditures been at macys,spending_history
+how much did i spend this week,spending_history
+how much did i spend on christmas gifts in december,spending_history
+how much money did i spend yesterday,spending_history
+what did i spend at bath and body works last month,spending_history
+how much did i spend on lunches last week,spending_history
+what amount did i spend last week,spending_history
+what did i spend my money on last week,spending_history
+how much did i spend on movies last week,spending_history
+have i been spending a lot on groceries lately,spending_history
+have i been spending a lot on shoes lately,spending_history
+have i been spending a lot on food lately,spending_history
+have i been spending a lot on alcohol lately,spending_history
+have i been spending a lot on take out lately,spending_history
+how much have i spent on shoes lately,spending_history
+did i spend a lot on shoes recently,spending_history
+how much have i spent on shoes,spending_history
+have i have been spending a lot of money on shoes,spending_history
+what is the total i spent on shoes recently,spending_history
+what have i spent over the last few days,spending_history
+how much have i spent recently,spending_history
+how much money have i dropped recently,spending_history
+how much money have i spent this month,spending_history
+what's the amount of money i spent yesterday,spending_history
+could you tell me how much i've spent over the past two weeks,spending_history
+how much money have i spent this week,spending_history
+could you tell me how much money i spent last week,spending_history
+please tell me how much i have spent recently,spending_history
+how much did i spend last week,spending_history
+can you tell me my spending history from last week,spending_history
+i want to know how much i spent last week,spending_history
+i want to know my recent spending,spending_history
+how much have i paid for rent in the last 6 months,spending_history
+how much money have i spent on groceries recently,spending_history
+how much did i spend on groceries today,spending_history
+how much have i spent eating out this week,spending_history
+what chunk of my income have i spent on rent this year,spending_history
+what's it been costing me to buy three packs a day,spending_history
+what have car repairs ran me this month,spending_history
+what has gas cost me this week,spending_history
+what did car insurance run me this year,spending_history
+what's the total amount i've spent eating out in the last two weeks,spending_history
+how much have i spent on alcohol recently,spending_history
+how much have i spent on books recently,spending_history
+how much have i spent on food recently,spending_history
+how much have i spent on bills recently,spending_history
+how much have i spent on clothes recently,spending_history
+i need to know my total spending on amazon for november and december 2018,spending_history
+please list my total spending on grocery shopping for the last two months,spending_history
+how much have i spent on starbucks since the beginning of 2019,spending_history
+what is my total spent on dining out for the month of january,spending_history
+what is the total amount that i have spent on the cash app for this month so far,spending_history
+have i spent a lot on food recently,spending_history
+i need to know what i have spent on food recently,spending_history
+can you tell me what i have spent on food recently,spending_history
+what have i spent on food recently,spending_history
+what is the amount i have spent on food recently,spending_history
+how much have i lately spent on eating out,spending_history
+what have i spent lately in child care,spending_history
+how much have i spent lately on food,spending_history
+how much money have i recently spent on entertainment,spending_history
+how much have i paid in medical expenses recently,spending_history
+how much did i spend on gas last week,spending_history
+can you tell me what i spend on gas for the past two weeks,spending_history
+yesterday what did i spend on lunch,spending_history
+i need to know what i spend on utilities for the last year,spending_history
+what did i spend on groceries this month,spending_history
+have i been giving lot of money to food to food lately,spending_history
+how much money did i use to spend on catering five hours ago,spending_history
+how much did i spend on gear two weeks ago,spending_history
+have i been spending a lot on roast beef lately,spending_history
+have i been spending a ton of money on movies lately,spending_history
+how much money did i spend on tent equipment four hours ago,spending_history
+how much did i spend on furniture last week,spending_history
+how much did i spend on petrol 2 days ago,spending_history
+how much money did i spend on food last month,spending_history
+would please let me know how much i spent on food in january,spending_history
+could you check my account and let me know how much i spent on food in january,spending_history
+please check and tell me the amount i spent on food last month,spending_history
+let me know the amount i spent on food last month,spending_history
+i have been spending a lot on food out lately,spending_history
+i have spent a lot on groceries lately,spending_history
+i spent a lot on vacations recently,spending_history
+i have been spending a lot on utility bills lately,spending_history
+i have been spending a lot on insurance lately,spending_history
+did i go out to eat more than usual,spending_history
+have i been spending more money at restaurants,spending_history
+how much did i spend on food,spending_history
+how much do i spend going out to eat,spending_history
+what's my going out to eat tab this month vs last month,spending_history
+how much did i spend shopping for clothes today,spending_history
+how much did i spend the past 3 days,spending_history
+how much did i spend on gas the past month,spending_history
+how much have i spent on food in the past week,spending_history
+locate lost luggage from flight america airlines in o'hare,lost_luggage
+on flight america airlines in o'hare lost luggage,lost_luggage
+in o'hare lost luggage on flight america airlines,lost_luggage
+lost luggage on flight america airlines in o'hare,lost_luggage
+while on flight america airlines i lost luggage in o'hare,lost_luggage
+it seems my luggage was lost,lost_luggage
+my luggage was lost so what do i do,lost_luggage
+my luggage is missing i was on spirit flight ab123 from chicago,lost_luggage
+i think my luggage has been lost,lost_luggage
+i think my luggage was misplaced or has been lost,lost_luggage
+i lost my luggage coming from new york city on american flight ab123,lost_luggage
+what step do i take if my bag got lost on the flight,lost_luggage
+i lost my luggage coming from chicago on delta flight ab123,lost_luggage
+what is the next step if my luggage was lost,lost_luggage
+"i lost my luggage, what now",lost_luggage
+i lost my luggage,lost_luggage
+my luggage is missing i was on frontier flight ab123 from seattle,lost_luggage
+my luggage was lost on the flight,lost_luggage
+my luggage is lost i was on delta flight ab123 from detroit,lost_luggage
+can you please help me find my lost luggage,lost_luggage
+my luggage has not arrived and i would like help locating it,lost_luggage
+my luggage has not arrived and i would like assistance locating it,lost_luggage
+can you please help me locate my luggage,lost_luggage
+my luggage is lost and i would like help trying to locate it,lost_luggage
+im at lax and my bags aren't,lost_luggage
+my bags did not arrive here at smf,lost_luggage
+i got to vegas airport but my bags didn't,lost_luggage
+"where are my bags, not here at the airport",lost_luggage
+my bags didn't make it to the new orleans airport,lost_luggage
+i'm not able to find my luggage and i was on southwest airlines flight ab123 out of houston,lost_luggage
+my luggage is missing i was on american airlines flight ab123 out of dallas,lost_luggage
+i just traveled on american airlines flight ab123 out of dallas i can't find my luggage,lost_luggage
+i flew on southwest airlines flight ab123 out of dallas and i can not find my luggage,lost_luggage
+i was on american airlines flight ab123 out of houston and i can't find my luggage,lost_luggage
+what if i lost my luggage,lost_luggage
+"help, i lost my luggage",lost_luggage
+what to do if luggage lost,lost_luggage
+how to find lost luggage,lost_luggage
+what do you do if your luggage is missing,lost_luggage
+what is the best way to deal with my lost luggage,lost_luggage
+i'm in baggage claim at the airport and my luggage didn't make it,lost_luggage
+who can i turn to if i lost my luggage,lost_luggage
+i'm waiting for my luggage in the airport now but it's been a while and it's still not arrived,lost_luggage
+where do i begin the process of reporting my luggage lost,lost_luggage
+"my luggage is nowhere in sight, it might be lost",lost_luggage
+"if i lost my luggage, where can i get help",lost_luggage
+i believe it looks like my luggage has disappeared,lost_luggage
+"my luggage is missing, i think",lost_luggage
+it appears that my luggage has vanished,lost_luggage
+can you tell me what to do as i am in the airport and have been for some time and there is still no sign of my suitcase,lost_luggage
+there's a strong possibility that my luggage has gone missing,lost_luggage
+how do i handle the situation if i lost my luggage,lost_luggage
+is there someone i can talk to since i am in the airport waiting for my luggage which never came,lost_luggage
+what should i do if i'm waiting at the airport and my luggage is not here,lost_luggage
+i think my luggage got lost,lost_luggage
+i believe that my luggage was lost,lost_luggage
+it looks as though my luggage has been lost,lost_luggage
+i don't know where my luggage is,lost_luggage
+i'm having trouble finding my luggage i was on delta flight ab123 out of new york,lost_luggage
+i was on delta flight ab123 out of new york and i can't find my luggage,lost_luggage
+i miss placed my luggage i was on delta flight ab123 out of new york,lost_luggage
+my luggage is lost i was on delta flight ab123 out of new york,lost_luggage
+i was on delta flight ab123 out of new york and haven't been able to locate my luggage,lost_luggage
+my luggage appears to be missing,lost_luggage
+i need to find my luggage,lost_luggage
+do you know where my luggage is,lost_luggage
+i can't find my luggage anywhere and there's no more on the conveyor,lost_luggage
+can you see if you can track where my luggage is,lost_luggage
+"what the heck, where's my luggage!",lost_luggage
+i can't find any of my luggage!,lost_luggage
+do you know where the luggage for people on panam flight ab123 out of tuscon is,lost_luggage
+who do i report lost luggage to,lost_luggage
+i'm here at dia but my luggage isn't!,lost_luggage
+find me the number for jet blue's customer service so i can yell at someone about my missing luggage,lost_luggage
+can you help me locate lost luggage,lost_luggage
+how do i find lost luggage,lost_luggage
+i arrived on delta flight ab123 from juno but my luggage doesn't appear to have come with me,lost_luggage
+what's the procedure to deal with lost luggage,lost_luggage
+i just flew in on american airlines flight ab123 from chicago and can't find my luggage,lost_luggage
+can you check where my luggage is off jetblue flight ab123 out of buffalo,lost_luggage
+where's my luggage for american airlines flight ab123 out of denver,lost_luggage
+how do i go about resolving my luggage that didn't arrive,lost_luggage
+can you find out what happened to my luggage,lost_luggage
+do you know whom i should contact since my luggage did not arrive,lost_luggage
+"my luggage did not arrive, please investigate",lost_luggage
+"where is my luggage, i was on delta flight ab123 out of dc",lost_luggage
+"i need my luggage found, i was on delta flight ab123 out of san francisco",lost_luggage
+"i can't locate my luggage, i was on jetblue flight ab123 out of detroit",lost_luggage
+"my luggage is lost, i was on american airlines ab123 out of los angeles",lost_luggage
+"i need assistance with my lost luggage, i was on american airlines ab123 out of talahasse",lost_luggage
+help me find my luggage,lost_luggage
+tell me where my luggage is,lost_luggage
+how do i find lost luggage in an airport,lost_luggage
+i need to figure out what to do about lost luggage,lost_luggage
+"my luggage is lost,what do i do now",lost_luggage
+who do i go to to find lost luggage,lost_luggage
+who do i complain to about my luggage not arriving at the airport,lost_luggage
+can you help me find my luggage it was lost on delta flight abc123 from houston,lost_luggage
+i need my luggage that your airline lost it was flight abc123 and now it’s suddenly missing,lost_luggage
+my luggage was on delta flight abc123 out of houston and now i can’t find it,lost_luggage
+tell me my reminders,reminder
+tell me my current reminders list,reminder
+please read my reminders,reminder
+will you repeat my reminder list,reminder
+check my reminders for mop and floor,reminder
+read my reminder list to me,reminder
+is mop the floor already in my reminders,reminder
+read back the reminder list,reminder
+what's on the reminder list,reminder
+read my reminders to me,reminder
+check my reminders for mop the floor,reminder
+what reminders do i have,reminder
+read what i added to the reminder list,reminder
+can you list each item on my reminder list,reminder
+can you tell me what reminders i've set,reminder
+tell me what's on my reminder list,reminder
+do i have any reminders to look up how to properly do a potato in my microwave,reminder
+do i have a reminder for our neighbor's anniversary,reminder
+tell my all my reminders,reminder
+is respond to the professor's email on my list of reminders,reminder
+read me my reminders list,reminder
+go through all the reminders on my list and state what they are,reminder
+is there a reminder for my aa meeting on my list,reminder
+speak back to me what's on my reminder list,reminder
+iterate the items on my reminder list,reminder
+please go through my reminder list and tell me what's on it,reminder
+did i add to my reminder list that i need to take the car in for an oil change,reminder
+what did i want to remember again,reminder
+what did i put on my list of reminders,reminder
+can you tell me the reminders i have set up,reminder
+what were the reminders that i made,reminder
+i wanted to remember what again,reminder
+can you remind me what i was trying to remember,reminder
+i had a list of reminders what were they,reminder
+remind me of what i asked you to remember,reminder
+what reminders did i have,reminder
+what are the thing i told you to help me remember,reminder
+read my reminders please,reminder
+what's on my reminder list today,reminder
+do i have anything in my reminders,reminder
+what did i ask to be reminded about,reminder
+check if getting a light bulb is on my list of reminders,reminder
+is buying a light bulb on my reminders list,reminder
+confirm that buy a light bulb is on my list of reminders,reminder
+please read my list of reminders,reminder
+what is now on my reminder list,reminder
+what things are currently on my reminder list,reminder
+tell me what is showing up on my reminder list,reminder
+what are the items on my reminder list,reminder
+can you read my list back to me,reminder
+can you repeat my list back to me,reminder
+can you describe my list back to me,reminder
+what is on my reminder list,reminder
+is checking the mail on my list of reminder,reminder
+i want to see my reminder list,reminder
+what do i want to remember,reminder
+let me know what is on my reminder list,reminder
+can you please repeat my list back to me,reminder
+tell me what is on my reminder list,reminder
+let me see the reminder list please,reminder
+can you read me my list of reminders,reminder
+what do i have on my list of reminders,reminder
+what did i list in my reminders,reminder
+"i wanted to remember some things, what were they",reminder
+can you remind me the things i was trying to remember,reminder
+let me know what's on my list of reminders,reminder
+can you tell me what things i was trying to remember,reminder
+tell me what's on my reminders list please,reminder
+what were those things i was trying to remember,reminder
+do you know what things i wanted to remember,reminder
+what are in my reminders list,reminder
+my list of reminders is what,reminder
+on my list of reminders is what,reminder
+the lists of my reminders is what,reminder
+reminders of my list is what,reminder
+is there a reminder set to clean the gutters,reminder
+what do i have on my reminder list,reminder
+please read all the items on my reminder list,reminder
+can you tell me all the reminders i have set on my reminder list,reminder
+did i request a reminder for my niece's graduation,reminder
+"can you read my reminder list, please",reminder
+is the company party on my list of reminders,reminder
+did i set up a reminder to clean the bathroom,reminder
+what did i include on my list of things to remember,reminder
+please look to see if paying bills is on my reminders list currently,reminder
+please tell me everything on my list of reminders,reminder
+tell me if flipping the mattress is on my list of reminders please,reminder
+i need to know the content of my list of reminders,reminder
+tell me everything i included on my list of things to remember for later,reminder
+check to see if picking up glenn from the airport is on my list of reminders,reminder
+go through my reminder list with me please,reminder
+i would like to hear you read my reminder list to me,reminder
+i want to hear what is on my reminders list,reminder
+read my list of reminders to me,reminder
+tell me what i had wanted to remember earlier,reminder
+did i include cleaning the hamster cage on my list of reminders,reminder
+walk me through the items on my reminder list,reminder
+i need to know what it is that i wanted to remember before,reminder
+please give me a rundown of my reminder list,reminder
+i want to hear everything on my reminder list,reminder
+remind me to call my mother saturday morning,reminder_update
+please set up a reminder i need to remember to ask about work,reminder_update
+make a reminder for me to do my resume,reminder_update
+remind me to take out the garbage in the morning,reminder_update
+"the next time it rains, remind me to close the windows",reminder_update
+could you make me a reminder to do the floors,reminder_update
+i need a reminder set for signing up for the conference,reminder_update
+set a reminder for me to call my brother at 8 pm,reminder_update
+make me a reminder about booking it,reminder_update
+"at 4 tomorrow afternoon, remind me to start the oven",reminder_update
+how about a reminder,reminder_update
+i would like a reminder,reminder_update
+i need to make a reminder please,reminder_update
+please give me a reminder,reminder_update
+can you set me a reminder,reminder_update
+can i set a reminder,reminder_update
+please make a reminder,reminder_update
+add a reminder to check how the body is decomposing,reminder_update
+remind me to set the meat out to defrost,reminder_update
+create a reminder for me to exercise this week,reminder_update
+will you add a reminder for me,reminder_update
+add a reminder to pick milk up at the store,reminder_update
+make a reminder to do my taxes,reminder_update
+set a reminder to remind me to check when my car payment is,reminder_update
+set a reminder for me to take my meds,reminder_update
+can you create a reminder,reminder_update
+create a reminder for me to send flowers to my mom for mother's day,reminder_update
+i'd like to have a reminder made,reminder_update
+set a reminder for later,reminder_update
+please remind me later,reminder_update
+remind me again please,reminder_update
+remind me later,reminder_update
+please remind me at a later time,reminder_update
+set a reminder,reminder_update
+remind me,reminder_update
+please remind me of something,reminder_update
+i need a reminder,reminder_update
+i would like to be reminded,reminder_update
+set a reminder for me,reminder_update
+i need a reminder to remind me to do something,reminder_update
+i want you to remind me of something,reminder_update
+i need you to remind me to get something done,reminder_update
+remind me to call the vet tomorrow,reminder_update
+set a reminder for me to do this in a bit,reminder_update
+can you set a reminder for the meeting,reminder_update
+set a reminder to go dress shopping,reminder_update
+remember to remind me of this later,reminder_update
+i need to set a reminder to go to the post office,reminder_update
+set a reminder for tomorrows meeting,reminder_update
+set a reminder for the movie,reminder_update
+set a reminder to go grocery shopping,reminder_update
+set a reminder to feed the dogs,reminder_update
+set a reminder to go check the mail,reminder_update
+make a reminder to change the cat litter,reminder_update
+set a reminder for my doctors appointment,reminder_update
+dont forget to set a reminder to pay the bills,reminder_update
+please remind me to do this later,reminder_update
+remind me to do this in awhile,reminder_update
+help me set a reminder to work out,reminder_update
+dont let me forget to do that thing later,reminder_update
+make a reminder to work out at the gym,reminder_update
+set a reminder to pick up the kids,reminder_update
+set a reminder to call my mom,reminder_update
+remind me to take the chicken out in a hour,reminder_update
+set reminder to prepare for my meeting at 10 am,reminder_update
+set reminder for tomorrow to eat,reminder_update
+remind me to bring a jacket in tomorrow,reminder_update
+set a reminder to bring a book to work tomorrow,reminder_update
+set a new reminder for tomorrow at 4am,reminder_update
+make reminder to pay rent on the 30th of every month,reminder_update
+"open up a reminder, pay taxes on monday",reminder_update
+"new reminder, please",reminder_update
+create a reminder to give the cat her flea medicine,reminder_update
+set up a reminder to give the cat her flea medicine,reminder_update
+i need you to make a reminder for me to give the cat her flea medicine,reminder_update
+"make a reminder, pay taxes on monday",reminder_update
+set reminder pay taxes on monday,reminder_update
+make a reminder to give the cat her flea medicine,reminder_update
+set up an alarm to remind me to give my cat her flea medicine,reminder_update
+set reminder to feed cat tonight at 6pm,reminder_update
+set a reminder for monday pay taxes,reminder_update
+create a reminder to pay taxes on monday,reminder_update
+remind me to use the bathroom,reminder_update
+please reminder for car meet,reminder_update
+remind me to clean room,reminder_update
+i need to be notified to clean the room,reminder_update
+remind me tommorow at 3pm i have a doctors appointment,reminder_update
+remind me friday to call my mother,reminder_update
+make me a reminder that tommorow is trash day,reminder_update
+set up a reminder that i need to pay my car ins the 23rd,reminder_update
+set up a reminder to mail a check tommorow,reminder_update
+i need to take out the trash please remind me,reminder_update
+set a reminder to take out the trash,reminder_update
+tell me to take out the trash in an hour,reminder_update
+remind me to take out the trash,reminder_update
+please remind me to take out the trash,reminder_update
+i need to be reminded to pray,reminder_update
+i want to get reminded to clean my room,reminder_update
+remind me to call bob,reminder_update
+give me a reminder for calling bill,reminder_update
+when should i pay my bill by,bill_due
+when is my car insurance due,bill_due
+when's the gas bill due,bill_due
+when do i pay the utilities,bill_due
+do i pay my rent this week,bill_due
+i need to know when i must pay my car bill,bill_due
+how much is my water bill,bill_due
+is my bill due this week,bill_due
+how much time left to pay my bill,bill_due
+what day is my car insurance due,bill_due
+when's the electric bill due,bill_due
+when's the next phone bill,bill_due
+when is my next car payment,bill_due
+when is too late to pay my cable bill,bill_due
+can you alert me when my phone bill is due,bill_due
+on what day do i pay my car payment,bill_due
+how can i know when my cable bill is due,bill_due
+what day do i have to pay for my capital one card,bill_due
+how long do i have left to pay for my chase credit card,bill_due
+what is the due date of my att bill,bill_due
+when is my xfinity bill due,bill_due
+how many more days before my verizon bill is due,bill_due
+i cant remember when my bill is due,bill_due
+what is the due date of my bill,bill_due
+what day is my bill due,bill_due
+when is my bill due,bill_due
+tell me when my bill will be due,bill_due
+how do i locate when my gas bill is do,bill_due
+i would like to know my electric bills date it needs to be payed,bill_due
+i need to know where to locate when my gas bill is due,bill_due
+can you tell me when my electric bill is due,bill_due
+i need to know the due date for my credit card,bill_due
+where should i look for when my gas bill is due,bill_due
+can you tell me the date my credit card is due,bill_due
+i'd like to find the date that my gas bill is due,bill_due
+how do i know when to pay my gas bill,bill_due
+when do i have to pay my water bill by,bill_due
+when do i have to pay my electric bill by,bill_due
+when do i have to pay my internet bill by,bill_due
+when do i have to pay my gas bill by,bill_due
+tell me when i have to pay my bill,bill_due
+what date do i have to pay my bill,bill_due
+give me the date my bill is due,bill_due
+on what day do i have to pay my nordstrom bill,bill_due
+when is my chase visa due,bill_due
+when do i need to pay my annual payment for auto insurance,bill_due
+what is the exact due date for my mortgage payment,bill_due
+what is the due date for my metronorth monthy pass,bill_due
+can you tell me when my peco energy bill is due this month,bill_due
+please find the exact payment due date for my sprint phone bill,bill_due
+what is the due date on my xfinity internet bill for february,bill_due
+what is the latest date that i can pay my direct tv bill this month,bill_due
+i need the new due date for my pgw gas bill,bill_due
+what time do i have to pay z bill,bill_due
+whats the due date for z bill,bill_due
+how soon before my catering bill is due,bill_due
+how long before my lawn guy bill's due,bill_due
+when's my heater bill due,bill_due
+what date is my water bill due,bill_due
+whats the deadline for amex payment,bill_due
+when is my visa due,bill_due
+when is visa due,bill_due
+do you know when i need to pay my mastercard,bill_due
+what's the due date for my american express payment,bill_due
+when is my mortgage payment due,bill_due
+what's the due date for the credit card,bill_due
+when's the next time i have to pay the insurance,bill_due
+how long do i have to pay the gas bill,bill_due
+when's the rent due,bill_due
+when does the car payment come due,bill_due
+when does the electric bill up,bill_due
+how do i check when my mortgage is next up for payment,bill_due
+when do i owe the state payment for my car tags,bill_due
+when do i owe the rent,bill_due
+do i need to pay my credit card bill already,bill_due
+do you know when my next electric bill is due,bill_due
+where do i find information on when the water bill is due,bill_due
+how do i ascertain when my next insurance payment will be,bill_due
+what do i do to check when my next credit card payment is,bill_due
+when do i need to pay my at&t bill,bill_due
+what is the due date of my at&t bill,bill_due
+is my at&t bill do soon,bill_due
+when is my at&t bill due,bill_due
+what date is my at&t bill due,bill_due
+when's the ac bill due,bill_due
+what day is the z bill due,bill_due
+what's the due date for the renting bill,bill_due
+i want to know when a bill is due,bill_due
+what day is the bill due,bill_due
+i would like to know when the bill is due,bill_due
+what is the due date for a bill,bill_due
+when is the bill due,bill_due
+how do i find when my water bill needs to be paid,bill_due
+when is my water bill due,bill_due
+how do i find when my cable bill is due,bill_due
+when is my electric bill due,bill_due
+when do i need to pay the water bil,bill_due
+how do i find when my medical bill is due,bill_due
+when do i need to pay the cable bill,bill_due
+how do i find when my electric bill is due,bill_due
+let my credit card company know that my card split in half,damaged_card
+how do you report a burned debit card,damaged_card
+"my card split in half, how do i report it",damaged_card
+report my burned card to the company,damaged_card
+what do i say when i report a split credit card,damaged_card
+my card was damaged by my cat; can i report that,damaged_card
+i dropped my card in my gasoline and the printing wore off,damaged_card
+i need to report that my dog chewed up my card,damaged_card
+it seems i can't use my card since it has been damaged,damaged_card
+"unfortunately, my card is damaged and unusable",damaged_card
+what should i do with an unusable and damaged card,damaged_card
+my card is unusable because it's damaged,damaged_card
+i cracked my card and need a replacement,damaged_card
+my card got melted and i need to report it,damaged_card
+"my card got melted and i need to report it, please",damaged_card
+"my card got melted in the dryer and i need to report it, please",damaged_card
+my card got damaged and i need to report it,damaged_card
+"my card got damaged and i need to report it, please",damaged_card
+my card is damaged so i can not use it,damaged_card
+report the card has been damaged,damaged_card
+"i can not use my card, it is damaged",damaged_card
+"the card is torn, let's report it",damaged_card
+report that the card has been wrecked,damaged_card
+my card is damaged and no longer function,damaged_card
+my card is damaged and unusable,damaged_card
+"my card is wrecked, let's report it",damaged_card
+report the card has been torn,damaged_card
+i can not use my card since it is damaged,damaged_card
+i need to report a bent card,damaged_card
+"my card split in half, can i report it",damaged_card
+"i cracked my card, order a new one",damaged_card
+report that i split my card,damaged_card
+please make a report that my card is split,damaged_card
+"the magnetic strip on my card is scratched, let the card company know",damaged_card
+"i cut up the wrong card, please contact the bank and let them know",damaged_card
+"i creased my card today, contact the bank",damaged_card
+"my card is cracked, please tell the card company",damaged_card
+"the dog chewed up my card, will you find out what it takes to get a replacement",damaged_card
+the plastic numbers on my card are falling off,damaged_card
+corner of my credit card is chipped off,damaged_card
+my card got snapped in half,damaged_card
+my card is too scratched and won't read correctly,damaged_card
+the sticker on my card is peeling off,damaged_card
+i can't use my card because it is broken,damaged_card
+my broken card won't work,damaged_card
+i can't use my damaged card,damaged_card
+my damage card is not working,damaged_card
+my damage card will not work,damaged_card
+i don't know who to notify that i ran my credit card over with the lawn mower,damaged_card
+i ran my credit card over with the lawn mower and need to replace it,damaged_card
+i need to replace my credit card because i ran it over with the lawn mower,damaged_card
+my card is partially damaged how do i report this,damaged_card
+my card is not working and i need to let them know,damaged_card
+my card broke in half and i need to report this,damaged_card
+the chip on my card is damaged and i need a new one,damaged_card
+my card's magnetic strip is not working and i want to notify them,damaged_card
+my card has a deep crease through the middle so i would like to report it,damaged_card
+how do i report my card if it got cut in half,damaged_card
+my card is cracked and i want to report it,damaged_card
+my card is too scratched up and i need to report it,damaged_card
+i need to report my bent card,damaged_card
+report to the company that i damaged my card,damaged_card
+call the card company and ask them to replace my card,damaged_card
+i damaged the card; can you replace the card,damaged_card
+i demagnetized my card and want to report it,damaged_card
+i want to report a broken card,damaged_card
+"my phone was too close to my card and demagnetized it, how can i report this",damaged_card
+my card has been erased and i need to report it,damaged_card
+"i need a report form for my damaged, demagnetized card",damaged_card
+how to report bent credit card,damaged_card
+i can't use my broken card,damaged_card
+i broke my card,damaged_card
+how to tell the company that my credit card melted,damaged_card
+my card is broken,damaged_card
+my card isn't working,damaged_card
+who do i report to if my credit card snaps,damaged_card
+"i accidentally bent my card, what do i do",damaged_card
+my card doesn't work anymore,damaged_card
+how do i report a melted credit card,damaged_card
+"my card needs replaced, i accidentally scraped it",damaged_card
+"i'd like to report my card as damaged, it's bent",damaged_card
+"i bent my card, can you report it to my bank",damaged_card
+"my card got scratched badly, can you tell my bank to send a replacement",damaged_card
+"my card snapped, can you tell my bank to send a replacement",damaged_card
+i accidentally put my credit card in the shredder,damaged_card
+my credit card fell out of my back pocket and got flushed down the toilet,damaged_card
+my credit card snapped in half while i was fiddling with it,damaged_card
+my dog ate my credit card and ruined it,damaged_card
+i was using my credit card as a cutting board and accidentally sliced it in half,damaged_card
+can you assist me with reporting that the atm nicked my card,damaged_card
+i need to report a new card please the atm hurt mine,damaged_card
+how report that scratched my card,damaged_card
+the atm chewed up my card can i get a new one,damaged_card
+"an atm ate my card, how do i report it",damaged_card
+my card fell out of my wallet and i ran over it so it does not work,damaged_card
+my card fell in the toilet and now the chip does not work,damaged_card
+the magnetic strip on my card is scratched up pretty badly from overuse can i get a new one,damaged_card
+i need a new card because my dog chewed on it and now it does not work,damaged_card
+i want to report my damaged card i accidentally cut it up thinking it was my expired card,damaged_card
+i cracked my rewards card can i get a different one,damaged_card
+can you find my package in transit,order_status
+track my package please,order_status
+help me find my package,order_status
+i need to track my package,order_status
+what's going on with my order,order_status
+can you see where my package is,order_status
+do you know anything about the status of my order,order_status
+can you check if my order has been delivered,order_status
+are you able to figure out where my package is,order_status
+order status,order_status
+is my order being delivered soon,order_status
+where's my package,order_status
+do you know where my package is,order_status
+"check status on my deliver, has it been delivered",order_status
+is my order shown as delivered,order_status
+did my order ship,order_status
+can you tell where my package is,order_status
+is my package able to be tracked by you,order_status
+can you find my package,order_status
+can you locate my package,order_status
+are you able to tack my package,order_status
+has my online order shipped yet,order_status
+i need to know what the most recent update is on the status of my online purchase,order_status
+look up the status of the order i placed online,order_status
+check to see the status of my recent online order,order_status
+find out the status of my most recent online purchase,order_status
+"i ordered some curtains off amazon, can you tell me if it's been shipped yet",order_status
+what's the status of my order,order_status
+can you check on the status of my orders at amazon,order_status
+can you tell me what the status of my last amazon order is,order_status
+can you tell me if my last amazon order is coming today,order_status
+show me tracking on my order,order_status
+what is the status of my order,order_status
+can you update me on my last amazon orders,order_status
+"i just placed my order today, what is the status of it",order_status
+can i please get the status my order,order_status
+my order was put in and i was wonder how i can see the status of it,order_status
+i submitted my order is there any updates on it yet,order_status
+"hey, i just put in my order and i was wondering what the status of it",order_status
+what's the current location of my package,order_status
+has my ordered arrived,order_status
+when will my package arrive,order_status
+can you see if my order was delivered,order_status
+did my order ever get distributed today,order_status
+where was my package last at,order_status
+can you help me find my package,order_status
+was my order dropped off,order_status
+where's my package right now,order_status
+would you track my package,order_status
+please track my package,order_status
+track my package now please,order_status
+could you please track my package,order_status
+i need you to track my package,order_status
+what is the status of my online order,order_status
+what's the status of the order i placed online last week with target,order_status
+please tell me the status of my last online order from walmart,order_status
+"can i still make changes to my order, or has it already been shipped",order_status
+i need an update on my online order from nespresso,order_status
+when can i expect to receive the order,order_status
+has my order been shipped,order_status
+can you give me a status update on my online order from amazon,order_status
+what is the status of my online order of coffee pods,order_status
+what is the status of my recent order,order_status
+can you please check on the status of my online order,order_status
+check up on the status of my online order,order_status
+online order: status,order_status
+check on the status of my order,order_status
+where is my order,order_status
+is my order here yet,order_status
+when will my order be delivered,order_status
+check the status of my order,order_status
+show me where my order is,order_status
+has my order been shipped yet,order_status
+can you check to see if my order has been delivered,order_status
+"could you check to see if my order has been delivered, please",order_status
+"can you check to see if my order has been delivered, please",order_status
+"could you check if my order has been delivered, please",order_status
+could you check to see if my order has been delivered,order_status
+has the order that i placed arrived,order_status
+is my order already here,order_status
+is my order due yet,order_status
+is the packaged delivered already,order_status
+has my order arrived yet,order_status
+how soon will me package arrive,order_status
+when can i expect my order,order_status
+check order number,order_status
+"track package, please",order_status
+are you able to track my package,order_status
+track my package,order_status
+what is the tracking on my package,order_status
+get the tracking on my package,order_status
+what is the status of my delivery order,order_status
+where is my delivery order,order_status
+has my delivery order arrived yet,order_status
+has my delivery order showed up,order_status
+"i ordered for delivery, has is arrived yet",order_status
+what is the status of my most recent order,order_status
+has my recent order shipped,order_status
+when will my order be here,order_status
+will my order be here by saturday,order_status
+i'm afraid this charge on my account is fraud,report_fraud
+i think there's fraud on my account,report_fraud
+i think i have fraud on my account from walmart,report_fraud
+there's been some fraudulent activity on my card,report_fraud
+i'm pretty sure this charge from sam's club is fraudulent,report_fraud
+i'm pretty sure this charge is fraudulent,report_fraud
+i need to report some fraudulent card activity,report_fraud
+there are some questionable charges on my card,report_fraud
+i think there's a fraudulent transaction on my account,report_fraud
+there's a shady charge from comcast on my account,report_fraud
+my account has a fraudulent transaction i think,report_fraud
+can you help me with some fraudulent charges on my card,report_fraud
+i think i've been the victim of fraud,report_fraud
+i'd like to report a fraudulent charge from people's natural gas,report_fraud
+this costco charge looks fraudulent,report_fraud
+there's fraudulent transaction going on,report_fraud
+i may have a fraudulent transaction,report_fraud
+i suspect some suspicious activity,report_fraud
+there seems to be fraudulent activity,report_fraud
+i suspect fraudulent transaction,report_fraud
+i need to report fraudulent activity on my card,report_fraud
+i'm reporting fraudelent activity on my card,report_fraud
+there has been fraudulent activity on my card and i need to report it,report_fraud
+i need to make a report due to fraudulent activity on my card,report_fraud
+due to fraudulent activity on my card i need to make a report,report_fraud
+how do i report a fraudulent charge on my visa,report_fraud
+how do i report fraud on my discover card,report_fraud
+how do i let visa know about a charge i didn't make,report_fraud
+help me tell visa about fraud on my account,report_fraud
+how do i tell mastercard about a fraudulent charge,report_fraud
+i have activity on my bank of america card i don't recognize,report_fraud
+i think a thief used my card,report_fraud
+i have suspicious charges on my discovery card,report_fraud
+i believe there's fraud on my card,report_fraud
+i need to report fraudulent activity on my mastercard,report_fraud
+i think someone's using my visa card without my permission,report_fraud
+i have transactions on my card that aren't mine,report_fraud
+my card has purchases i don't recognize,report_fraud
+someone misused my card and put fraudulent transactions on it,report_fraud
+i have charges on my amex card i didn't make,report_fraud
+"""disable my card account and contact company to report fraudulent activty",report_fraud
+"""i need to report fraudulent activity to my card company",report_fraud
+"""please contact my credit card company to report fraudulent activity on",report_fraud
+it looks like someone made an unauthorized amazon purchase on my account,report_fraud
+i think my chase account has been compromised and fraud committed,report_fraud
+i may have had fraud committed on my account,report_fraud
+i'm thinking someone may have used my card in a fraudulent way,report_fraud
+there is a fraudulent charge for paypal on my bank account,report_fraud
+i think the charge for uber on my account is fraudulent,report_fraud
+looks like someone made an unauthorized charge to nike on my account,report_fraud
+i think someone stole my card and used it,report_fraud
+i think someone made an illegal charge to my card,report_fraud
+my account is showing a charge to venmo that i did not make,report_fraud
+i gotta report fraudulent activity on my credit card,report_fraud
+so i made a fraudulent transaction,report_fraud
+i have a fraudulent transaction from wal mart on my account right now,report_fraud
+turns out i made a fraudulent transaction,report_fraud
+report fraudulent activity on my debit card,report_fraud
+i made a fraudulent transaction,report_fraud
+i have a fraudulent transaction from wal mart showing on my account,report_fraud
+i think i made a fraudulent transaction,report_fraud
+i have a fraudulent transaction from wal mart on my account,report_fraud
+i must report fraudulent activity on my debit,report_fraud
+i have a fraudulent transaction from red robin on my account,report_fraud
+report fraudulent activity on my credit card now,report_fraud
+i have a fraudulent transaction from fry's on my account,report_fraud
+i got to report fraudulent activity on my credit card,report_fraud
+i'm afraid there is a false transaction on my account,report_fraud
+i have detected fraudulent activity on my account,report_fraud
+i see a fraudulent transaction from netflix on my account,report_fraud
+i spotted a fraudulent transaction from microsoft on my account,report_fraud
+i see a suspicious transaction in my account history,report_fraud
+it seems someone conducted a fraudulent transaction on my account,report_fraud
+i need help investigating a suspicious transaction,report_fraud
+i need to report a fraudulent transaction from postmates on my account,report_fraud
+help me figure out where this fraudulent transaction from google came from on my account,report_fraud
+can you help me deal with this fraudulent transaction from verizon on my account,report_fraud
+i believe there are fraudulent charges on my card how can i report them,report_fraud
+i didn't make these purchases on my card; these are fraudulent charges i need to report them,report_fraud
+how can i report fraudulent charges on my card,report_fraud
+it seems that there's fraudulent activity on my card i'd like to file a report,report_fraud
+i want to report fraudulent activity on my card,report_fraud
+send information about suspicious credit card activity,report_fraud
+please report information about activity on my credit card,report_fraud
+send fraudulent activity information,report_fraud
+please file a fraud report,report_fraud
+report fraud on my card,report_fraud
+"i want to report fraudulent activity on my visa card, please",report_fraud
+"i need to report fraudulent activity on my visa card, please",report_fraud
+i want to report fraudulent activity on my amex card,report_fraud
+i want to report fraudulent activity on my visa card,report_fraud
+"i want to report fraudulent activity on my amex card, please",report_fraud
+i believe that there is some fraudulent activity on my capital one account,report_fraud
+there is an unauthorized transaction on my bank of america checking,report_fraud
+i see a purchase on my chase checking that i did not make,report_fraud
+what steps do i take if there is a transaction that i do not recognize on my navy federal credit union account,report_fraud
+i need to talk to someone about a transaction that was not made by me on my chase account,report_fraud
+can you report credit card fraud for me,report_fraud
+discover card reporting fraud,report_fraud
+i need to know how to report fraud on my discover card,report_fraud
+"please cancel what you are doing, i've changed my mind",cancel
+"never mind, cancel that",cancel
+"stop working on it, i need something else",cancel
+"cancel my last request, i know the answer",cancel
+"forget it, i do not need it anymore",cancel
+pause,cancel
+cancel that last thing,cancel
+silence,cancel
+quit,cancel
+mute,cancel
+stop,cancel
+stop and go back,cancel
+ai stop talking,cancel
+quiet now,cancel
+shhhh,cancel
+how do i make you stop talking,cancel
+can you be quiet please,cancel
+please stop doing what i asked,cancel
+please be quiet,cancel
+i would like you to stop what you were doing,cancel
+please cancel that last command,cancel
+can you cancel what you were doing,cancel
+can you cancel,cancel
+shut up!,cancel
+i need you to stop talking now,cancel
+i want you to quit the action,cancel
+discontinue please,cancel
+i don't want you to speak any more for now,cancel
+discontinue your current task,cancel
+abort please,cancel
+quit the current action please,cancel
+forget my previous command,cancel
+abort the current action,cancel
+actually forget that i don't need it,cancel
+quit what you are doing,cancel
+"sorry, you can actually stop that",cancel
+"i actually don't want this anymore, please abort",cancel
+please cancel your present task,cancel
+"that's enough, don't say anymore please",cancel
+i want you to stop your present action,cancel
+stop talking please,cancel
+"what you are doing is not actually helpful, please cancel the action",cancel
+please stop,cancel
+cancel action,cancel
+please cancel the input,cancel
+"ai, stop talking",cancel
+"ai, shut up",cancel
+"ai, stop!",cancel
+please be quiet now,cancel
+terminate,cancel
+negate last command,cancel
+halt,cancel
+would you stop talking please,cancel
+please abandon the current job,cancel
+please abort the current task,cancel
+terminate current process,cancel
+i want you to cancel the current action,cancel
+abort,cancel
+please stop doing that,cancel
+abort running program,cancel
+don't continue with what you're doing,cancel
+oh shut the hell up would you,cancel
+destroy process,cancel
+please cancel that last task,cancel
+please refrain from carrying out the current task,cancel
+"ai, cancel that last request",cancel
+do not complete the task that i gave you,cancel
+"ai, please stop your current task",cancel
+"actually, cancel that command",cancel
+"nevermind, cancel that",cancel
+"actually, cancel that",cancel
+forget it,cancel
+cancel that,cancel
+don't do this process,cancel
+undo,cancel
+cancel current process,cancel
+undo this process,cancel
+just shut up,cancel
+stop that,cancel
+cancel that input,cancel
+"never mind, don't do that",cancel
+never mind,cancel
+stop doing that,cancel
+halt that immediately,cancel
+stop the process happening now,cancel
+"stop, i changed my mind",cancel
+cancel that last command,cancel
+oops cancel that,cancel
+can you stop,cancel
+could you stop talking for a second,cancel
+could you stop please,cancel
+can you switch off,cancel
+can you stop speaking,cancel
+can you please cancel,cancel
+can you end the task,cancel
+scratch,cancel
+refrain from talking,cancel
+halt the process,cancel
+no more talking,cancel
+i advise you to quit talking,cancel
+do a websearch for direct deposit set up,direct_deposit
+search google for how to set up direct deposit,direct_deposit
+info on setting up direct deposit,direct_deposit
+info on direct deposit set-up,direct_deposit
+tell me how to get my paycheck on direct deposit,direct_deposit
+what are the steps for setting up direct deposit for my paycheck,direct_deposit
+give me instructions to set up direct deposit for my paycheck,direct_deposit
+"i want to set up direct deposit for my paycheck, what do i need to do",direct_deposit
+how do i set up direct deposit for my paycheck,direct_deposit
+i'd really like to set up a direct deposit for my paycheck,direct_deposit
+i wanna set up a direct deposit for my paycheck,direct_deposit
+i'd like to set up a direct deposit for my paycheck,direct_deposit
+i would like to set up direct deposit,direct_deposit
+set up direct deposit for me,direct_deposit
+i need to set up a direct deposit for my paycheck,direct_deposit
+set up a direct deposit,direct_deposit
+i need to set up direct deposit,direct_deposit
+i want to set direct deposit,direct_deposit
+help me get my pay check deposited directly to my home checking account,direct_deposit
+set my paycheck up for direct deposit,direct_deposit
+i want my paycheck to go directly to my bank account,direct_deposit
+set up direct deposit to my money market account for my pay check,direct_deposit
+how do i get direct deposit for my paycheck,direct_deposit
+what's the procedure to get direct deposit for my paycheck,direct_deposit
+set up payroll direct deposit to my checking account,direct_deposit
+make it so my paycheck goes directly into my savings account,direct_deposit
+how can i have my paycheck directly deposited,direct_deposit
+i need to get direct deposit on my bofa account,direct_deposit
+what do i need to set up direct deposit,direct_deposit
+what is needed for setting up direct deposit,direct_deposit
+can you walk me through setting up direct deposit,direct_deposit
+what is needed to set up direct deposit,direct_deposit
+i need help to set up direct deposit,direct_deposit
+would you help me set up direct deposit,direct_deposit
+assist me to set up direct deposit,direct_deposit
+tell me how to set up direct deposit,direct_deposit
+tell me how to set up direct deposit for my paycheck,direct_deposit
+how do i direct deposit my paycheck,direct_deposit
+what do i do to have my paycheck deposited directly in my account,direct_deposit
+how can i have my paycheck directly deposited in my account,direct_deposit
+"i would like to set up a direct deposit, please tell me how",direct_deposit
+how can i set up a direct deposit with my checking account,direct_deposit
+can you tell me how to set up a direct deposit,direct_deposit
+can you help me set up a direct depost,direct_deposit
+how can i turn on direct deposit,direct_deposit
+how can i set up direct deposits from my job to my bank,direct_deposit
+what steps do i need to do to set up direct deposit,direct_deposit
+i want to set up direct deposit what do i need to do,direct_deposit
+what do i need to do to start direct deposit,direct_deposit
+how do i go about setting up direct deposit,direct_deposit
+how do i get direct deposit set up,direct_deposit
+i'd like to know about setting up direct deposit,direct_deposit
+can you tell me how to set up direct depost,direct_deposit
+how do i get my check directly deposited,direct_deposit
+direct deposit information,direct_deposit
+how do i set up instant paycheck,direct_deposit
+how do i direct deposit my check,direct_deposit
+help me set up direct deposit to my bank of hawaii checking account,direct_deposit
+can you show me how to set up direct deposit for my paycheck to my first hawaiian bank account,direct_deposit
+i want to set up direct deposit to my first hawaiian bank account,direct_deposit
+can you show me how to set up my paycheck to be direct deposit to my first hawaiian bank account,direct_deposit
+how do i set up direct deposit to my bank of hawaii account,direct_deposit
+help me set up a direct deposit,direct_deposit
+how is a direct deposit set up,direct_deposit
+how would i go about setting up a direct deposit,direct_deposit
+i need to set up a direct deposit,direct_deposit
+tell me how to set up a direct deposit,direct_deposit
+onpay gives you two convenient ways to pay your employees,direct_deposit
+can you help me set up direct deposit,direct_deposit
+i need some guidance when it comes to direct deposit,direct_deposit
+i want to switch to direct deposit,direct_deposit
+how can i set up direct deposit,direct_deposit
+what are the steps to direct deposit my check,direct_deposit
+is there a specific way to set up direct deposit,direct_deposit
+how do i arrange a direct deposit into my savings account,direct_deposit
+how do you set up direct deposit,direct_deposit
+"can you teach me how to set up direct deposit, or show me who can",direct_deposit
+can you show me how to set up direct deposit,direct_deposit
+"if i would like to set up direct deposit, how do i do it",direct_deposit
+direct deposit instructions,direct_deposit
+help setting up direct deposit,direct_deposit
+please help me set up direct deposit,direct_deposit
+what are the steps for setting up direct deposit,direct_deposit
+how does one go about setting up direct deposit,direct_deposit
+how to set up direct deposit for paychecks,direct_deposit
+what's needed to direct deposit my paycheck,direct_deposit
+what is required to direct deposit my paycheck,direct_deposit
+how to direct deposit my paycheck,direct_deposit
+i need to get my paycheck direct deposited to my chase account,direct_deposit
+i'd like to have my paycheck direct deposited to my chase account,direct_deposit
+what are the steps to set up direct deposit to my chase account,direct_deposit
+how do i get my paycheck direct deposited to my chase account,direct_deposit
+how do i set up direct deposit to my chase account,direct_deposit
+what do i do to enable direct deposit,direct_deposit
+can i get paychecks directly deposited to my bank of america account,direct_deposit
+i have a great western bank account i want direct deposits to go to,direct_deposit
+i'd like my paychecks direct deposited in my navyfed checking account,direct_deposit
+can you walk me through setting up direct deposits to my bank of internet savings account,direct_deposit
+how do i get paychecks put directly in my sunflower savings account,direct_deposit
+let me set up direct deposit for this,direct_deposit
+remove my reservation at outback for timmy,cancel_reservation
+can you cancel the reservation for kyle's party at red lobster,cancel_reservation
+cancel my party reservation for brad at longhorn,cancel_reservation
+get rid of my reservation at chez francois for jennifer,cancel_reservation
+cancel the reservation at olive garden for tommy,cancel_reservation
+you can cancel my reservation,cancel_reservation
+my reservation is no longer needed,cancel_reservation
+tell the restaurant i cannot make it,cancel_reservation
+there is no need to confirm my reservation,cancel_reservation
+would you please cancel the reservations for dinner,cancel_reservation
+"hello, i need to cancel tonight's reservation for dinner",cancel_reservation
+i need to put in a cancellation for the dinner plans tonight,cancel_reservation
+"cancel the dinner reservation i made, okay",cancel_reservation
+i need to cancel my dinner reservation,cancel_reservation
+please cancel my reservation for dinner,cancel_reservation
+cancel my reservation for dinner,cancel_reservation
+my reservation for dinner needs to be canceled,cancel_reservation
+call the restaurant and cancel my reservation,cancel_reservation
+get rid of my 2 pm reservation at ruth's steakhouse,cancel_reservation
+can you cancelt the reservation i have for dinner,cancel_reservation
+please cancel my dinner reservation for tuesday,cancel_reservation
+can you cancel my reservation for dinner tomorrow,cancel_reservation
+cancel my reservation for 6 pm at sidetracks,cancel_reservation
+get rid of my 4 pm reservation at the steakhouse please,cancel_reservation
+can you cancel the reservation i have at 4 pm at ruth's,cancel_reservation
+cancel the reservation i made for 8 pm at black rock,cancel_reservation
+cancel my dinner reservation please,cancel_reservation
+please cancel the table i had reserved for tonight,cancel_reservation
+"i made a reservation for chris at tony's, please cancel it",cancel_reservation
+cancel tonight's dinner reservation,cancel_reservation
+"i don't need my reservation, can you cancel it",cancel_reservation
+can you cancel my dinner reservation,cancel_reservation
+please cancel my reservation for chris at brio,cancel_reservation
+please cancel my dinner reservation,cancel_reservation
+can you cancel my reservation tonight for chris at smith and wollensky,cancel_reservation
+"i don't need my reservation, cancel it",cancel_reservation
+can you cancel my reservation on tuesday for chris at stella maris,cancel_reservation
+cancel my reservation for chris at jp field's,cancel_reservation
+please cancel my reservation,cancel_reservation
+"cancel my reservation for dinner, please",cancel_reservation
+tell the restaurant to cancel my reservation,cancel_reservation
+abandon the dinner reservation i made,cancel_reservation
+scrap that dinner reservation,cancel_reservation
+call off the dinner reservation,cancel_reservation
+cancel my reservation for me,cancel_reservation
+get rid of my dinner reservation,cancel_reservation
+the reservation i placed is not needed anymore,cancel_reservation
+annul the reservation i created,cancel_reservation
+the reservation i created is not necessary anymore,cancel_reservation
+the reservation i made is not required anymore,cancel_reservation
+repeal the dinner reservation,cancel_reservation
+can i cancel my reservations,cancel_reservation
+i would like to cancel my reservations,cancel_reservation
+could i cancel my reservations,cancel_reservation
+can i cancel my reservations please,cancel_reservation
+i need to cancel my reservations,cancel_reservation
+can you cancel my 5:30 pm table reservation at parc,cancel_reservation
+i need you to cancel my reservation for smith's at 6:15,cancel_reservation
+cancel my 8:00 pm prime rib reservation,cancel_reservation
+go ahead and cancel the reservation i made for 6:00 pm at parc,cancel_reservation
+please cancel my 7:30 reservation for morton's,cancel_reservation
+is it possible to cancel the reservation at outback for the johnsons,cancel_reservation
+i made a reservation under mark hamil at the emporium that i don't need any more,cancel_reservation
+i no longer need a table for four at chili's,cancel_reservation
+we have a table at the taco bell under bowie we need to release,cancel_reservation
+i have a reservation at pizza hut under the name leia roberts and i want to cancel it,cancel_reservation
+can you undo the reservation,cancel_reservation
+i'd like to cancel the party of 7 we reserved at the olive garden,cancel_reservation
+i want to cancel the reservation for mercury at the ritz,cancel_reservation
+just trash the reservation i made please,cancel_reservation
+please cancel the table for two at burger king,cancel_reservation
+please delete the reservation for 3 people at outback,cancel_reservation
+go ahead and close the reservation,cancel_reservation
+please unreserve that table,cancel_reservation
+i no longer need the reservation for 20 at ihop,cancel_reservation
+im not going to dinner tonight,cancel_reservation
+im not gonna need the dinner reservation,cancel_reservation
+remove my dinner reservation,cancel_reservation
+i no longer need the dinner reservation,cancel_reservation
+can i cancel my reservation for 4 at red robin,cancel_reservation
+cancel my reservation for 4 at red robin,cancel_reservation
+i want to cancel my reservation for 5 at red robin,cancel_reservation
+could you please cancel my reservation for 5 at red robin,cancel_reservation
+cancel my reservation for 3 at carlos jr,cancel_reservation
+change my reservation with carl at umami to canceled,cancel_reservation
+i no longer need my reservation with carl at umami,cancel_reservation
+cancel my reservation with carl at umami,cancel_reservation
+make sure my reservation at umami with carl is canceled,cancel_reservation
+end my reservation with carl at umami,cancel_reservation
+because of circumstances i don't need my reservation anymore,cancel_reservation
+i won't require my reservation anymore,cancel_reservation
+i'll have to cancel my reservation for tonight,cancel_reservation
+something's come up so i need to cancel my reservation so now,cancel_reservation
+the reservation i have isn't needed any more,cancel_reservation
+the reservation at zepher cancel joe from that,cancel_reservation
+joe and i are to cancel the reservation at zephers now,cancel_reservation
+cancel my reservations for joe's at zepher right now,cancel_reservation
+please cancel the reservation at zephers for joe and myself right now,cancel_reservation
+cancel the reservation for joe and i right now for the zephers reservation we had booked,cancel_reservation
+cancel my 6:00 reservation at the cheesecake factory,cancel_reservation
+can you please order me more plastic bags,order
+"i need you to order some more lysol for me,please",order
+"i need some more lysol, could you order me some",order
+i'm out of lysol could you order me some,order
+could you please reorder me some lysol,order
+will you order me some more lysol spray,order
+order everything that's on my list for shopping,order
+i want my entire shopping list ordered,order
+i want to buy something,order
+get my entire shopping list ordered,order
+i want to make a purchase,order
+take my shopping list and order all,order
+send the order for my entire shopping list,order
+add everything to my shopping cart,order
+submit order for everything,order
+buy everything on my list,order
+please order everything you see on my shopping list,order
+go shopping and order everything on the list,order
+are you able to get my shopping list and order everything on it,order
+could you get everything on my shopping list,order
+i need everything ordered on my shopping list,order
+can you buy me a toy car,order
+i'd like to have everything on my shopping list,order
+i do not have cookies so will you order me some more,order
+get everything on my shopping list,order
+i wanna buy a pair of shoes online now,order
+i do not have flour so will you order me some more,order
+i need everything on my shopping list,order
+i do not have pizza so will you order me some more,order
+i want everything on my shopping list,order
+i don't have ice cream so will you order me some more,order
+i am out of ice cream so will you order me some more,order
+please get everything on my shopping list,order
+i need you to order all the things on my shopping list,order
+i want everything on my shopping list to be ordered,order
+please order me everything that is on my shopping list,order
+would you buy me a phone,order
+i would like everything on my shopping list ordered,order
+i would like you to buy me some paper plates,order
+i'd like you to purchase me canned soup,order
+i need you to buy a mouse for me,order
+purchase a computer for me,order
+i would like all of these things on my shopping list ordered,order
+put in the order for everything on my shopping list,order
+"please order some more cat food, i'm out",order
+i'm ready to put in the order for everything on my shopping list,order
+go ahead and order everything on my shoping list,order
+"i need more cat food, please order some",order
+"i'm out of cat food, order more",order
+will you buy me underpants,order
+"order some cat for me, i ran out",order
+"order more cat food, i'm out",order
+are you able to purchase underpants for me,order
+can you go to amazon a repurchase my last purchase,order
+please order me a 7lb bag of world's best cat litter from targetcom,order
+submit the order for everything on my shopping list,order
+can you buy something from walmartcom for me,order
+can you purchase underpants for me,order
+can you order underpants for me,order
+can you order everything on my shopping list,order
+i'm out of detergent so will you order me some more,order
+i'm out of fabric softener so will you order me some more,order
+i'm out of soap so will you order me some more,order
+i'm out of toothpaste so will you order me some more,order
+i'm out of razors so will you order me some more,order
+i just used up my toothpaste and need you to order more,order
+i'm making a purchase and need the help of ai,order
+can you order more chapstick i am all out,order
+i am currently out of q tips and need more ordered right away,order
+can you order more printer paper,order
+ran out of tissues and need you to put an order in for more asap,order
+i need you to buy a laptop,order
+i'd like to buy some cooking pans,order
+i'd like to have everything on the shopping list,order
+please buy me flowers,order
+buy all the things on the shopping list,order
+i want all the things on the shopping list,order
+i need to buy everything on the shopping list,order
+purchase me dog food,order
+purchase all the things on my shopping list,order
+i'm short on flour so place an order for me,order
+i'm low on mouthwash so create an order for me,order
+i'm lacking vitamins so order me more,order
+i need more candy so could you order me a pack,order
+i require another filter so can you order me another one,order
+i'm out of shampoo so will you order me some more,order
+i'm out of paper plates so will you order me some more,order
+i'm out of conditioner so will you order me some more,order
+i'm out of paper towels so will you order me some more,order
+i need a replacement phone charger ordered online,order
+can you have some new oakley's shipped to me,order
+grab me a new belt on amazon please,order
+order me a new usb cable on amazon,order
+can you order me new ray bans,order
+would you order everything on my shopping list,order
+i need everything on my shopping list to be ordered,order
+i want you to buy me a shirt,order
+i want everything on my shopping list ordered,order
+i am needing you to buy me some shoes,order
+i want you to order everything on my shopping list,order
+why did my card not get accepted,card_declined
+why did my card not get accepted there,card_declined
+please tell me why did my card not get accepted,card_declined
+why did my card not get accepted please,card_declined
+why did my card not get accepted then,card_declined
+find out why my card was declined,card_declined
+please tell me why my card was declined,card_declined
+for what reason did my card get declined,card_declined
+can you tell me why my card was declined,card_declined
+i need to know why my card was declined,card_declined
+i need to know why my card was just declined at walgreen's,card_declined
+where can i find out why my card was recently declined at amazoncom,card_declined
+i tried using my card at chipotle yesterday and it was declined; why,card_declined
+why was my card declined for my monthly netflix subscription payment,card_declined
+can you tell me what caused my card to get declined at starbucks this morning,card_declined
+i wonder why my card got declined yesterday,card_declined
+why was my card declined,card_declined
+"my card was declined yesterday, why",card_declined
+is my card working properly,card_declined
+do i have enough funds in my card,card_declined
+how do i fix my card being declined,card_declined
+tell me why was my card declined at the zoo,card_declined
+explain why was my card declined at boston market,card_declined
+why did you decline my card at sfo,card_declined
+how come my card was declined at rosses,card_declined
+why did my card get declined at the dentist office,card_declined
+why did macy's decline my card,card_declined
+bloomingdale's declined my card and i'd like to know why,card_declined
+why wouldn't nordstrom accept my card,card_declined
+please tell me why walgreen's wouldn't take my card,card_declined
+can you tell me why walmart declined my card,card_declined
+i couldn't buy a mug from target because my card got declined,card_declined
+stopped by target to get a mug but my card declines,card_declined
+at target trying to buy a mug and my card was declined,card_declined
+i went to target to buy a mug but my card did not work,card_declined
+trying to buy a mug from target but my card declined,card_declined
+why was my card not accepted yesterday,card_declined
+tell me why my card didn't work yesterday,card_declined
+what was the issue with my card yesterday,card_declined
+what was the problem with my card yesterday,card_declined
+what was wrong with my card yesterday,card_declined
+i was at home depot trying to buy plants and my card got declined,card_declined
+i need to know why my card declined yesterday,card_declined
+i wish to know why my card was declined yesterday,card_declined
+i was at target trying to buy candles and my card got declined,card_declined
+find out why my card declined yesterday,card_declined
+i was at sears trying to buy clothes and my card got declined,card_declined
+why was my card declined yesterday,card_declined
+i was at zales trying to buy a ring and my card got declined,card_declined
+i was at macys trying to buy shoes and my card got declined,card_declined
+my card declined yesterday and i want to know why,card_declined
+i wish to know why my card was declined,card_declined
+tell me why my card was declined yesterday,card_declined
+so it turns out my card was declined at applebee's and i wanna know why,card_declined
+so why was my card declined yesterday,card_declined
+tell me why my card got declined,card_declined
+it turns out my card was declined at fry's and i would like to know why,card_declined
+let me know why my card got declined,card_declined
+let me know why my card was declined yesterday,card_declined
+i wanna know why my card was declined,card_declined
+i really need to know why my card was denied,card_declined
+so my card was declined at fry's and i wanna know why,card_declined
+turns out my card was declined at wal mart and i wanna know why,card_declined
+i think my card was declined at wal mart and i want to know why,card_declined
+let me know why my card got declined the other day,card_declined
+please let me know why my card was declined yesterday,card_declined
+i was trying to buy qtips at walmart and my card got declined,card_declined
+i was at walmart today and my card got declined when i went to buy qtips,card_declined
+at walmart my card got declined when i was buyng qtips,card_declined
+"buying qtips today, my card got declined at walmart",card_declined
+i was buying qtips today at walmart and my card got declined,card_declined
+my card didn't go through when i was buying a case of water at walmart,card_declined
+i was at walmart when my card was declined i was only trying to buy some candy,card_declined
+my card got declined at target while buying a tv,card_declined
+i was at albertsons trying to buy milk when my card wasn't accepted,card_declined
+my card was not accepted for buying a computer at best buy,card_declined
+please help me figure out why my card was declined yesterday,card_declined
+why did my card get rejected yesterday,card_declined
+can you tell me why my card was declined yesterday,card_declined
+"my card was declined at the store yesterday, what happened",card_declined
+i was at costco trying to buy groceries and my card got declined,card_declined
+my card was declined at the casino and i'm wondering why,card_declined
+i was at safeway trying to buy groceries and my card got declined,card_declined
+i was at whole foods trying to buy groceries and my card got declined,card_declined
+i was at trader joe's trying to buy groceries and my card got declined,card_declined
+i was at costco trying to buy sheets and my card got declined,card_declined
+my card did not work yesterday,card_declined
+"i tried to use my credit card yesterday, but it did not work",card_declined
+my card was malfunctioning and was returned to me,card_declined
+for which reason was my card declined yesterday,card_declined
+"yesterday, my card was declined",card_declined
+i don't understand why walgreens declined my card,card_declined
+i tried to make a purchase yesterday but my card was declined why,card_declined
+i don't understand why my card was declined yesterday,card_declined
+what is the reason for whole foods declining my card,card_declined
+can you explain why my card was declined,card_declined
+how come starbucks declined my card when i tried to use it to pay,card_declined
+how come my card was not accepted yesterday,card_declined
+find out what happened to make my card get declined yesterday,card_declined
+why was my card declined at safeway,card_declined
+how much is an overdraft fee for bank,oos
+why are exponents preformed before multiplication in the order of operations,oos
+what size wipers does this car take,oos
+where is the dipstick,oos
+how much is 1 share of aapl,oos
+how is glue made,oos
+any headlines from my areai,oos
+what is the largest state in the us,oos
+what is the current market trend,oos
+what is the most popular airline,oos
+what is the formula for the circumference of a circle,oos
+what are some ways to reduce spending,oos
+what time does the louvre open,oos
+are there any local stations covering the moral march in raleigh in februaryu,oos
+how many planets have we discovered,oos
+how do i change my billing address,oos
+how do i open an online line of credit,oos
+how do i remove a coffee blemish,oos
+how expensive is an apple share,oos
+where can i find the cruise control on my kia sportage 2010,oos
+how many sides are in a hexagon,oos
+how fast does an airplane travel,oos
+is it worth investing in target,oos
+i need to speak to customer service regarding my flight,oos
+how long do wire transfers take,oos
+what are some deals on amazon,oos
+what city is the super bowl,oos
+what trees change color in autumn,oos
+do people prefer summer over fall,oos
+how long is winter,oos
+what were some of ben franklin's notable accomplishments,oos
+where was john denver born,oos
+where did abraham lincoln live,oos
+when was kobe bryant born,oos
+who's toledo's starting point guard for the next game,oos
+how many players are on the chicago bulls,oos
+who is the coach of the chicago bulls,oos
+when do the utah jazz play next,oos
+what other nations were involved in the chinese trade war,oos
+what years has korea been at war,oos
+when was the theory of evolution first considered,oos
+who formulated the theory of relativity,oos
+what stage of evolution am i,oos
+what other personality type is most compatible with infjs,oos
+what does my personality mean,oos
+what's the most dominant scale in bluegrass,oos
+what year was saxaphone first played,oos
+which piano is best for classical,oos
+is k-12 education required outside of the united states,oos
+what are the benefits of completing college,oos
+are you able to answer algebra equations,oos
+can you help me study for a history exam,oos
+how many points per game is lebron james averaging this season,oos
+what team does eli mannign play for,oos
+get me dwight howard shooting average,oos
+can you list me tiger wood's stats,oos
+what's the runtime of all the lord of the rings movies combined,oos
+which character is the most famous from titanic,oos
+how many oscars did star wars films win,oos
+what year was shawshank redemption released,oos
+which marvel character has appeared in the most movies,oos
+when's the next movie starring thor set to come out,oos
+who was the first capcom character,oos
+are any justice league movies coming out,oos
+can you tell me something about the nfl,oos
+please explain the catch rule to me,oos
+is there overtime in college football,oos
+when did the mls start,oos
+what's the best price on super smash bros ultimate right now,oos
+what is the highest earning game on atari,oos
+when is the next nintendo direct,oos
+when was nintendo created,oos
+please find the capital of pakistan and its population,oos
+how many people live in taiwan,oos
+what are some of picasso's most famous works,oos
+what are van gogh's best pieces,oos
+where can i see art,oos
+when did camus die,oos
+how much money does radiohead earn a year,oos
+who is radiohead,oos
+what's the biggest saas marketing company in the united states,oos
+how do i start my own marketing firm,oos
+how can i get involved in restaurant marketing,oos
+what is saas marketing,oos
+what do you call someone who was born in segovia,oos
+what is rhineland,oos
+who is the scariest character in start trek,oos
+who is the current captain of this ship,oos
+what year was star trek released,oos
+when was toyota created,oos
+who are some notable alumni of ucsd,oos
+what is the next football game,oos
+how many students attend ucsb,oos
+when do classes start,oos
+how can i become an aerospace engineer,oos
+what percentage of species display cold blooded traits,oos
+what does it mean to be an alpha male,oos
+what animals have alpha males,oos
+why do males want to be alpha,oos
+what's the average battery life of an android phone,oos
+what is the most expensive price per share of any stock,oos
+can you tell me when the bank closes,oos
+rewind one minute,oos
+what is apple's stock,oos
+is there a video-on-demand function (vod),oos
+show me all contacts,oos
+what are the pros and cons of credit cards,oos
+can you show me my 3-digit credit card verification number,oos
+how win money in internet,oos
+is there a car in my blind spot,oos
+what is slope of an inverted line,oos
+can you clock me in,oos
+how do you store my card information,oos
+can you tell me until what time the stock market is open,oos
+give me the local newsi,oos
+why can't you divide by zero,oos
+adjust windshield wipers,oos
+what is the formula for the surface area of a cylinder,oos
+can you forward this email to my boss,oos
+what did the president say todayu,oos
+what color is the car,oos
+can you restart my phone,oos
+what is the account number,oos
+will you block non-kid friendly shows,oos
+can you tell me who else is on my account,oos
+what cleaning product should i use on wood floors,oos
+which state has the best airlines,oos
+find out who won the governor's electionu,oos
+what are bbc headlinesi,oos
+when was the last worker's strike in amsterdam,oos
+how many prime numbers are there under 100,oos
+put seatbelts on,oos
+how many ways can i make $1 using standard us coins,oos
+what kind of gas do i use,oos
+does my a/c filter need to be changed,oos
+how do the anti-lock brakes work,oos
+how do i change my flight,oos
+can you find instructions for removing a coffee stain from upholstery,oos
+what show am i watching,oos
+what are my local news stations,oos
+i have old model car,oos
+can you tell me how to figure a percentage of a number,oos
+what do the values of numbers mean non-numerically,oos
+can you read me the last text,oos
+please save my draft for me so i can work on it later,oos
+how do i stop the beeping noise when my seatbelt is off in my honda civic,oos
+how do i find a common denominator,oos
+can you see the second right inside the fridge,oos
+change my seat to an window seat for my flight on monday,oos
+show me an example of an algebraic expression,oos
+what is npr reporting on right now,oos
+how many points has the nyse gone up by this month,oos
+should i invest in microsoft stock,oos
+can you show me my credit card number,oos
+is the stock market up or down today,oos
+is the shutdown over,oos
+what's my horoscope today,oos
+am i using cruise control,oos
+can you send an email to client b,oos
+is the bachelor on tonight,oos
+does my credit card have a balance transfer promotions currently going on,oos
+how does a optical mouse work,oos
+which stocks should i invest in to get at least 5% back on my investment this year,oos
+find out for me what kind of benefits military veterans have after retirement,oos
+can you tell me what kind of benefits miliraty veterans receive,oos
+"if you're dishonorably discharged, are you still a veteran",oos
+is va treatment free for veterans,oos
+what month are mosquitoes the worst in the united states,oos
+what's the most effective bug repellant,oos
+how long do mosquito's live,oos
+where do squirrels's live,oos
+can you identify between poisonous and nonpoisonous mushroom,oos
+can you find out for me how many mushroom species are there,oos
+what are some ways to prepare portabello mushrooms,oos
+how do you know if a mushroom is edible,oos
+what's the most popular tv show on netflix right now,oos
+what's trending in 90s television shows on netflix,oos
+when was hulu created,oos
+get me the rates of hacking susceptibility for household in my area,oos
+can you check my privacy online settting,oos
+how can i protect myself online,oos
+how much is the best vpn,oos
+"who is the oscar who ""the oscar's"" is named after",oos
+what is the origin of the name michael,oos
+where are the oscar's held,oos
+how do you get an oscar,oos
+are deer indigenous to north america,oos
+what's an otter's primary diet,oos
+a the bike looks very nice,oos
+how the bikes looks,oos
+is the patriarchy a valid concept,oos
+is patriarchy wrong,oos
+how many generations of pokemon are there now,oos
+what year was the first pokemon game released,oos
+how many pokemon are there,oos
+where was salt created,oos
+what's a puffin's natural habitat,oos
+are hawks domesticated or wild,oos
+where do frogs come from,oos
+what are puffins,oos
+is it legal to breed and sell rabbits without a license,oos
+how many different types of robins are there,oos
+how long do chipmunks usually live,oos
+what do rabbits eat,oos
+how many seasons of rick and morty are there,oos
+will there be a new season of true detective,oos
+how old are rick ad morty,oos
+who are dan and dave,oos
+what was the area code of the phone number from that last scam call,oos
+how many people fall victim to internet scams per year,oos
+"how can i protect myself from ""nigerian prince"" scams",oos
+are semitic languages harder to learn than arabic languages,oos
+is it difficult to learn a semitic language,oos
+what languages are considered semitic,oos
+what is a semitic language,oos
+what's the typical structure for writing a country song,oos
+where can i find lyrical inspiration for songwriting,oos
+what's the dominant minor for the key of bflat,oos
+what's the order of the circle of fifths,oos
+what is the most popular sport in new york,oos
+how are my sports teams doing,oos
+which sport is the most fun,oos
+what's on for sports today,oos
+can you give me instructions for tattoo aftercare,oos
+how do i decide on a good first tattoo,oos
+where did the first tattoo originate,oos
+are tattoos safe to get,oos
+is time travel to the past theoretically possible,oos
+what is the solution to the grandfather paradox,oos
+please take me back to the year 1982,oos
+has anyone ever time traveled before,oos
+what species of oak tree grows to be the tallest,oos
+what's the best time of year to plant a tree,oos
+are trees absolutely necessary to survive,oos
+what is the largest tree in the world,oos
+how much has the market gone up or down so far in 2019,oos
+what is the most expensive building on wall street,oos
+is it difficult to be successful on wall street,oos
+what's the fastest growing stock of 2019,oos
+give me information about the soviet union's participation in world war 2,oos
+which nations were on each side of the conflict in world war ii,oos
+how long was the siege of leningrad,oos
+what years did world war i occur,oos
+what's a good resource to learn beginner's yoga,oos
+what's the most difficult yoga pose to perform,oos
+how can i get involved in yoga,oos
+is yoga healthy,oos
+what's the alma mater of the man that started youtube,oos
+who has the most subscribers on youtube,oos
+do those i subscribe to have new videos,oos

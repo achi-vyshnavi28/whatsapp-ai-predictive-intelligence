@@ -1,0 +1,659 @@
+text,intent_name,category,pred,confidence,correct,batch
+i was using my credit card as a cutting board and accidentally sliced it in half,damaged_card,complaints_security,damaged_card,0.4979453340101596,1,0
+please remind me later,reminder_update,scheduling,reminder_update,0.5792309382302587,1,0
+my card is unusable because it's damaged,damaged_card,complaints_security,damaged_card,0.624610091863586,1,0
+stop that,cancel,order_management,cancel,0.7663480882981357,1,0
+i dropped my card in my gasoline and the printing wore off,damaged_card,complaints_security,damaged_card,0.3049601149501908,1,0
+does france have any current travel alerts,travel_alert,delivery_logistics,travel_alert,0.7353151357550652,1,0
+who was the first capcom character,oos,out_of_scope,oos,0.17091476511734222,1,0
+check to see the status of my recent online order,order_status,order_management,order_status,0.7953838076783352,1,0
+what are the pros and cons of credit cards,oos,out_of_scope,bill_due,0.13919337031715467,0,0
+i need to know something about my latest transaction,transactions,payments_billing,transactions,0.27635376473133083,1,0
+bring up all purchases from target,transactions,payments_billing,transactions,0.19609820513300733,1,0
+why did my card not get accepted please,card_declined,payments_billing,card_declined,0.58397006331134,1,0
+i need you to buy a laptop,order,order_management,order,0.38890012848755495,1,0
+put seatbelts on,oos,out_of_scope,oos,0.1261598874012592,1,0
+remind me to call bob,reminder_update,scheduling,reminder_update,0.8287494913614303,1,0
+my card has been erased and i need to report it,damaged_card,complaints_security,damaged_card,0.8506431254617612,1,0
+tell me what is on my reminder list,reminder,scheduling,reminder,0.8710597283425183,1,0
+can you confirm my reservation for jaime at red lobster,confirm_reservation,order_management,confirm_reservation,0.5306865529624526,1,0
+requesting money transfer between accounts,transfer,payments_billing,transfer,0.6949773076244212,1,0
+show me the transactions from costco yesterday,transactions,payments_billing,transactions,0.5944103600279121,1,0
+get rid of my 2 pm reservation at ruth's steakhouse,cancel_reservation,order_management,restaurant_reservation,0.2216661810244518,0,0
+i would like to set up direct deposit,direct_deposit,payments_billing,direct_deposit,0.9055722402107999,1,0
+what is the amount i have spent on food recently,spending_history,payments_billing,spending_history,0.7930528645365089,1,0
+what's the due date for my american express payment,bill_due,payments_billing,bill_due,0.4380203586967935,1,0
+i think there's a fraudulent transaction on my account,report_fraud,complaints_security,report_fraud,0.8904720787477594,1,0
+i would like to hear all transactions made on my amex for the last ten days,transactions,payments_billing,transactions,0.27891935543510826,1,0
+please confirm my reservation for feburary 21st at 6pm,confirm_reservation,order_management,confirm_reservation,0.7406174846531414,1,0
+my card is broken,damaged_card,complaints_security,damaged_card,0.4029183570471932,1,0
+i think i've been the victim of fraud,report_fraud,complaints_security,report_fraud,0.35668694549171664,1,0
+i need help paying my electric bill,pay_bill,payments_billing,pay_bill,0.6734227395358476,1,0
+could you make reservations for 2 at olive garden for 5 pm today,restaurant_reservation,order_management,restaurant_reservation,0.3253649526911297,1,0
+transfer 100 dollars between checking and savings,transfer,payments_billing,transfer,0.7748422980774762,1,0
+give me the local newsi,oos,out_of_scope,oos,0.15812757811554398,1,0
+shhhh,cancel,order_management,oos,0.1261598874012592,0,0
+can you get me a table for 4 at red lobster at 8pm,restaurant_reservation,order_management,restaurant_reservation,0.6220140055727524,1,0
+what does my personality mean,oos,out_of_scope,oos,0.1913563214473362,1,0
+order everything that's on my list for shopping,order,order_management,order,0.699318028084087,1,0
+yesterday what did i spend on lunch,spending_history,payments_billing,spending_history,0.5043927894114717,1,0
+what did i spend at the grocery store yesterday,spending_history,payments_billing,spending_history,0.4669082289281509,1,0
+can you book a table at the restaurant for me and my husband,restaurant_reservation,order_management,restaurant_reservation,0.559722818993464,1,0
+please make a reservation at ruth's steaks for a party of five at 7:00 pm under jack arnold,restaurant_reservation,order_management,restaurant_reservation,0.5725522224570992,1,0
+i think i need to make a reservation for 8 pm at red robin for 3,restaurant_reservation,order_management,restaurant_reservation,0.7124109051810644,1,0
+will you make sure robert has a reservation at ruth's steakhouse,confirm_reservation,order_management,restaurant_reservation,0.1956628458030004,0,0
+pay the cable bill with my visa card,pay_bill,payments_billing,pay_bill,0.3660266153434541,1,0
+because of circumstances i don't need my reservation anymore,cancel_reservation,order_management,cancel_reservation,0.3380943377139699,1,0
+what potential hazards are there for going to spain,travel_alert,delivery_logistics,oos,0.11510416447938662,0,0
+how come my card was not accepted yesterday,card_declined,payments_billing,card_declined,0.4894006532696557,1,0
+who do i complain to about my luggage not arriving at the airport,lost_luggage,delivery_logistics,lost_luggage,0.9157042214246128,1,0
+i want to initiate a transfer from one account to the other,transfer,payments_billing,transfer,0.7384855369725412,1,0
+help me get my pay check deposited directly to my home checking account,direct_deposit,payments_billing,pay_bill,0.3397930976626404,0,0
+retrieve my recent transactions,transactions,payments_billing,transactions,0.9035776967831453,1,0
+what do i do to have my paycheck deposited directly in my account,direct_deposit,payments_billing,direct_deposit,0.32380625556348064,1,0
+remove my dinner reservation,cancel_reservation,order_management,cancel_reservation,0.6609364314793544,1,0
+check travel alerts for kenya,travel_alert,delivery_logistics,travel_alert,0.78918047382157,1,0
+i need $20000 transferred from my savings to my checking,transfer,payments_billing,transfer,0.4658656791492469,1,1
+"i want to pay my bill, please",pay_bill,payments_billing,pay_bill,0.8442877915747731,1,1
+i need help paying my rent bill,pay_bill,payments_billing,pay_bill,0.5260242212016166,1,1
+i would like to make a transfer,transfer,payments_billing,transfer,0.21723619432144628,1,1
+my card isn't working,damaged_card,complaints_security,damaged_card,0.32870469892572035,1,1
+i need a reminder,reminder_update,scheduling,reminder_update,0.43409599699781615,1,1
+i need you to remind me to get something done,reminder_update,scheduling,reminder_update,0.6949899666457509,1,1
+what is apple's stock,oos,out_of_scope,oos,0.20323846796957618,1,1
+does south korea have any travel alerts i should be aware of,travel_alert,delivery_logistics,travel_alert,0.8273029484270042,1,1
+i need you to reserve a table for 6:00 pm for three at devon's seafood,restaurant_reservation,order_management,restaurant_reservation,0.6793523162371162,1,1
+are there travel alerts for europe,travel_alert,delivery_logistics,travel_alert,0.9835570705733508,1,1
+at walmart my card got declined when i was buyng qtips,card_declined,payments_billing,card_declined,0.7703115004478847,1,1
+pay my water bill with my charles schwab account,pay_bill,payments_billing,pay_bill,0.43254527682872834,1,1
+can you undo the reservation,cancel_reservation,order_management,cancel_reservation,0.6665502235670101,1,1
+what year was saxaphone first played,oos,out_of_scope,oos,0.27917894428821216,1,1
+cancel my 8:00 pm prime rib reservation,cancel_reservation,order_management,cancel_reservation,0.22954766608393498,1,1
+how can i become an aerospace engineer,oos,out_of_scope,oos,0.1261598874012592,1,1
+send money from one account to another,transfer,payments_billing,transfer,0.8113497409206232,1,1
+i'm out of paper towels so will you order me some more,order,order_management,order,0.3594202624723559,1,1
+please go through my reminder list and tell me what's on it,reminder,scheduling,reminder,0.8710597283425183,1,1
+i want to cancel the reservation for mercury at the ritz,cancel_reservation,order_management,cancel_reservation,0.6577889236753196,1,1
+"ai, shut up",cancel,order_management,cancel,0.1410388818698077,1,1
+i just used up my toothpaste and need you to order more,order,order_management,order,0.24872000146976425,1,1
+send $100 from paypal to my bank,transfer,payments_billing,transfer,0.1781604820332679,1,1
+i'm out of toothpaste so will you order me some more,order,order_management,order_status,0.6899657304246488,0,1
+i think my luggage got lost,lost_luggage,delivery_logistics,lost_luggage,0.6056384712749432,1,1
+when is my car insurance due,bill_due,payments_billing,bill_due,0.2134866981973158,1,1
+i'm making a purchase and need the help of ai,order,order_management,pay_bill,0.16928610446653292,0,1
+what reminders did i have,reminder,scheduling,reminder,0.7073044662082733,1,1
+i need to report a new card please the atm hurt mine,damaged_card,complaints_security,damaged_card,0.6210924572800267,1,1
+do i have reservations at o'neal's at 3 pm,confirm_reservation,order_management,confirm_reservation,0.4727686264865402,1,1
+is the bachelor on tonight,oos,out_of_scope,cancel_reservation,0.1223029585918508,0,1
+can you alert me when my phone bill is due,bill_due,payments_billing,travel_alert,0.11456153307496074,0,1
+change my reservation with carl at umami to canceled,cancel_reservation,order_management,cancel_reservation,0.24931916410367316,1,1
+what percentage of species display cold blooded traits,oos,out_of_scope,oos,0.14553440430482611,1,1
+can you cancel,cancel,order_management,cancel,0.479344548187563,1,1
+what is the status of my delivery order,order_status,order_management,order_status,0.786643986692877,1,1
+what's the alma mater of the man that started youtube,oos,out_of_scope,oos,0.17339984517367962,1,1
+look up the status of the order i placed online,order_status,order_management,order_status,0.5482558231137815,1,1
+i want to pay that bill now,pay_bill,payments_billing,pay_bill,0.8442877915747731,1,1
+can you walk me through setting up direct deposits to my bank of internet savings account,direct_deposit,payments_billing,direct_deposit,0.2198848601610355,1,1
+i need to pay this month's tv subscription fee,pay_bill,payments_billing,pay_bill,0.2859122682935931,1,1
+how many more days before my verizon bill is due,bill_due,payments_billing,oos,0.10945340303363921,0,1
+what has gas cost me this week,spending_history,payments_billing,bill_due,0.18380039889226232,0,1
+my card was declined at the casino and i'm wondering why,card_declined,payments_billing,card_declined,0.8100194078588878,1,1
+i wanna pay my cable bill from my checking account,pay_bill,payments_billing,pay_bill,0.6083190173207862,1,1
+can you read me the last text,oos,out_of_scope,reminder,0.20236054500972975,0,1
+i was at zales trying to buy a ring and my card got declined,card_declined,payments_billing,card_declined,0.9123318488362006,1,1
+put $40 from account a to b,transfer,payments_billing,transfer,0.2796222807404352,1,1
+"before i pay my capital one, what are the most recent transactions i've made",transactions,payments_billing,transactions,0.6247830399393091,1,1
+i need you to book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,order_management,restaurant_reservation,0.6397553886203804,1,1
+due to fraudulent activity on my card i need to make a report,report_fraud,complaints_security,report_fraud,0.6541879442915087,1,1
+how much is 1 share of aapl,oos,out_of_scope,oos,0.16978530948209636,1,1
+track my package please,order_status,order_management,order_status,0.7391096231248895,1,1
+i would like you to secure a 4:30 pm reservation for five people at morton's steakhouse,restaurant_reservation,order_management,restaurant_reservation,0.2811805978821544,1,2
+i need help paying my water bill,pay_bill,payments_billing,pay_bill,0.5751567675197409,1,2
+can i initiate a one-time transfer from my savings account to my money market account,transfer,payments_billing,transfer,0.7322199429083572,1,2
+"i need to report fraudulent activity on my visa card, please",report_fraud,complaints_security,report_fraud,0.8119632255690845,1,2
+destroy process,cancel,order_management,cancel,0.25601133463081194,1,2
+show me my transactions on mcdonalds,transactions,payments_billing,transactions,0.544367142159241,1,2
+book a reservation for 8 pm at red robin under the name kevin,restaurant_reservation,order_management,restaurant_reservation,0.6410192121521419,1,2
+i need to take out the trash please remind me,reminder_update,scheduling,reminder_update,0.6526942679639712,1,2
+i submitted my order is there any updates on it yet,order_status,order_management,order_status,0.6899657304246488,1,2
+set my paycheck up for direct deposit,direct_deposit,payments_billing,direct_deposit,0.9311652058792493,1,2
+how fast does an airplane travel,oos,out_of_scope,travel_alert,0.7986829931075617,0,2
+"stop working on it, i need something else",cancel,order_management,cancel,0.32457799108330737,1,2
+what amount did i spend for food on chase visa on current bill,transactions,payments_billing,spending_history,0.393472725531352,0,2
+is there a travel alert for [country],travel_alert,delivery_logistics,travel_alert,0.6804296410389231,1,2
+what is the next football game,oos,out_of_scope,oos,0.1758782719255192,1,2
+can you confirm i have a reservation at 5 pm on march 13th,confirm_reservation,order_management,confirm_reservation,0.8848395534965543,1,2
+my card is damaged and no longer function,damaged_card,complaints_security,damaged_card,0.4271722153209349,1,2
+can i safely travel to brazil,travel_alert,delivery_logistics,travel_alert,0.4928056228164583,1,2
+how many sides are in a hexagon,oos,out_of_scope,oos,0.1261598874012592,1,2
+please show me my recent transaction,transactions,payments_billing,transactions,0.8164141816537727,1,2
+"unfortunately, my card is damaged and unusable",damaged_card,complaints_security,damaged_card,0.5427725760784393,1,2
+i need to report a bent card,damaged_card,complaints_security,damaged_card,0.6490801974421783,1,2
+inform me if there's a travel alert for the country,travel_alert,delivery_logistics,travel_alert,0.6804296410389231,1,2
+walk me through the items on my reminder list,reminder,scheduling,reminder,0.681421597271433,1,2
+i really need to know why my card was denied,card_declined,payments_billing,card_declined,0.14503576446210115,1,2
+will you check there is a reservation for laura at black pearl,confirm_reservation,order_management,confirm_reservation,0.4864588206808977,1,2
+tell me why my card was declined yesterday,card_declined,payments_billing,card_declined,0.9062645292966348,1,2
+can you assist me with reporting that the atm nicked my card,damaged_card,complaints_security,damaged_card,0.27576836383382214,1,2
+could you please reorder me some lysol,order,order_management,order,0.14089249179061633,1,2
+i got to vegas airport but my bags didn't,lost_luggage,delivery_logistics,lost_luggage,0.2606226858891612,1,2
+i want to see my reminder list,reminder,scheduling,reminder,0.7856631500495256,1,2
+i'd really like to pay this bill,pay_bill,payments_billing,pay_bill,0.29859887170449767,1,2
+i need to report fraudulent activity on my mastercard,report_fraud,complaints_security,report_fraud,0.7974341951031829,1,2
+has my ordered arrived,order_status,order_management,order_status,0.13884581005950783,1,2
+i need you to reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,order_management,restaurant_reservation,0.7168422361269848,1,2
+does spain have any travel alerts i should be aware of,travel_alert,delivery_logistics,travel_alert,0.8155700718234472,1,2
+please order me everything that is on my shopping list,order,order_management,order,0.8913825132722192,1,2
+quit what you are doing,cancel,order_management,cancel,0.3234006892962969,1,2
+on my card what all are my latest transactions,transactions,payments_billing,transactions,0.5002228147116978,1,2
+can you get me a table for 6 at mark's at 11am,restaurant_reservation,order_management,restaurant_reservation,0.360682997879232,1,2
+is the packaged delivered already,order_status,order_management,order_status,0.19292713157529282,1,2
+can you confirm my reservation for donnobys at 5:00,confirm_reservation,order_management,confirm_reservation,0.9338650625654082,1,2
+is the stock market up or down today,oos,out_of_scope,oos,0.21587485420410618,1,2
+just trash the reservation i made please,cancel_reservation,order_management,cancel_reservation,0.1756833714856007,1,2
+what date do i have to pay my bill,bill_due,payments_billing,bill_due,0.6428605703362792,1,2
+are there any travel alerts in that region,travel_alert,delivery_logistics,travel_alert,0.9835570705733508,1,2
+why did macy's decline my card,card_declined,payments_billing,card_declined,0.3714487752874923,1,2
+i want to report fraudulent activity on my card,report_fraud,complaints_security,report_fraud,0.833570662275178,1,2
+does a travel alert exist for that country,travel_alert,delivery_logistics,travel_alert,0.7812031567048237,1,2
+how much is an overdraft fee for bank,oos,out_of_scope,transfer,0.12189317285551485,0,2
+deposit ten bucks from my chase account to my ally account,transfer,payments_billing,transfer,0.26129662993644803,1,2
+negate last command,cancel,order_management,cancel,0.2037728700955316,1,2
+i damaged the card; can you replace the card,damaged_card,complaints_security,damaged_card,0.7857822110834909,1,2
+what day is the bill due,bill_due,payments_billing,bill_due,0.4071293621387423,1,2
+help me figure out where this fraudulent transaction from google came from on my account,report_fraud,complaints_security,report_fraud,0.48808407209686033,1,3
+please give me a rundown of my reminder list,reminder,scheduling,reminder,0.8710155376211444,1,3
+please go ahead and make my student loan payment,pay_bill,payments_billing,pay_bill,0.12515773769321392,1,3
+when was hulu created,oos,out_of_scope,oos,0.18576113397455907,1,3
+why was my card declined,card_declined,payments_billing,card_declined,0.9652539474039485,1,3
+"the magnetic strip on my card is scratched, let the card company know",damaged_card,complaints_security,damaged_card,0.5360043022425282,1,3
+where should i look for when my gas bill is due,bill_due,payments_billing,bill_due,0.14863493232826644,1,3
+how much did i spend on movies last week,spending_history,payments_billing,spending_history,0.6905005904739693,1,3
+how much did i spend on gas the past month,spending_history,payments_billing,spending_history,0.5458446138515074,1,3
+what stage of evolution am i,oos,out_of_scope,oos,0.14825682935914247,1,3
+what's the total amount i've spent eating out in the last two weeks,spending_history,payments_billing,spending_history,0.4622416398279884,1,3
+discontinue please,cancel,order_management,oos,0.11994355695111568,0,3
+is my card working properly,card_declined,payments_billing,damaged_card,0.44050079594977876,0,3
+set a reminder,reminder_update,scheduling,reminder_update,0.9527904789675474,1,3
+does russia have any travel alerts i should be aware of,travel_alert,delivery_logistics,travel_alert,0.9062984584921578,1,3
+i would like to transfer $5 from savings to checking,transfer,payments_billing,transfer,0.6014218549138192,1,3
+"ai, stop!",cancel,order_management,cancel,0.49432329646510015,1,3
+how do i fix my card being declined,card_declined,payments_billing,card_declined,0.9652539474039485,1,3
+give me information about the soviet union's participation in world war 2,oos,out_of_scope,oos,0.21318382443892056,1,3
+will you please confirm my reservation for march 11 at 6:30 pm,confirm_reservation,order_management,confirm_reservation,0.6704817811617261,1,3
+can you get me a table for 6 at johnnys,restaurant_reservation,order_management,restaurant_reservation,0.4609143388633919,1,3
+what's the typical structure for writing a country song,oos,out_of_scope,oos,0.11745694560608921,1,3
+i would like everything on my shopping list ordered,order,order_management,order,0.6543366905714016,1,3
+book a reservation for 6 at shakey's under the name jason,restaurant_reservation,order_management,restaurant_reservation,0.28568267970091926,1,3
+"where is my luggage, i was on delta flight ab123 out of dc",lost_luggage,delivery_logistics,lost_luggage,0.795981495132586,1,3
+does it show me as having a reservation for tomorrow at 5,confirm_reservation,order_management,cancel_reservation,0.13922451890359547,0,3
+what is the formula for the surface area of a cylinder,oos,out_of_scope,oos,0.16414595393390782,1,3
+set up a reminder that i need to pay my car ins the 23rd,reminder_update,scheduling,reminder_update,0.49258110948411304,1,3
+do you know anything about the status of my order,order_status,order_management,order_status,0.7367818219802688,1,3
+what is npr reporting on right now,oos,out_of_scope,oos,0.136205111294282,1,3
+when's my heater bill due,bill_due,payments_billing,oos,0.1261598874012592,0,3
+what's the biggest saas marketing company in the united states,oos,out_of_scope,oos,0.21448777738349417,1,3
+how do i report my card if it got cut in half,damaged_card,complaints_security,damaged_card,0.651233001236137,1,3
+i need to make a reminder please,reminder_update,scheduling,reminder_update,0.6215411760758695,1,3
+what do i want to remember,reminder,scheduling,reminder,0.2748341710954307,1,3
+use my savings account to the pay the rent,pay_bill,payments_billing,pay_bill,0.2973219495676068,1,3
+show me my transactions within the past week,transactions,payments_billing,transactions,0.3882997357935755,1,3
+please transfer $250 from checking to savings,transfer,payments_billing,transfer,0.8026034332983131,1,3
+does taco house have a reservation for jean,confirm_reservation,order_management,confirm_reservation,0.18799202718603936,1,3
+check my reminders for mop the floor,reminder,scheduling,reminder,0.3484770691196636,1,3
+please report information about activity on my credit card,report_fraud,complaints_security,damaged_card,0.34754971433037124,0,3
+i need a bit of hand holding getting my trash bill paid,pay_bill,payments_billing,oos,0.08633540649749341,0,3
+does china have any travel alerts i should be aware of,travel_alert,delivery_logistics,travel_alert,0.894442191733399,1,3
+find out why my card declined yesterday,card_declined,payments_billing,card_declined,0.9502451639391305,1,3
+can you verify mike has a reservation at black rock at 6 pm,confirm_reservation,order_management,confirm_reservation,0.33430525846113135,1,3
+"can you teach me how to set up direct deposit, or show me who can",direct_deposit,payments_billing,direct_deposit,0.9766259854220574,1,3
+remind me tommorow at 3pm i have a doctors appointment,reminder_update,scheduling,reminder_update,0.49760334280978674,1,3
+what is the solution to the grandfather paradox,oos,out_of_scope,oos,0.1261598874012592,1,3
+info on setting up direct deposit,direct_deposit,payments_billing,direct_deposit,0.7572047622984892,1,3
+will you confirm my reservation for red robin at 10,confirm_reservation,order_management,confirm_reservation,0.7384393300460531,1,3
+track my package now please,order_status,order_management,order_status,0.7391096231248895,1,3
+can you check and see i have a reservation under alex for bon apetite,confirm_reservation,order_management,confirm_reservation,0.4864588206808977,1,3
+i need to know what i spend on utilities for the last year,spending_history,payments_billing,spending_history,0.1480899720188795,1,3
+check the status of my order,order_status,order_management,order_status,0.7759655978875243,1,4
+how do i decide on a good first tattoo,oos,out_of_scope,oos,0.17320697039025026,1,4
+what's the most dominant scale in bluegrass,oos,out_of_scope,oos,0.14395613773705754,1,4
+why was my card not accepted yesterday,card_declined,payments_billing,card_declined,0.6687756030824805,1,4
+can you cancel my dinner reservation,cancel_reservation,order_management,cancel_reservation,0.8770245708704701,1,4
+are semitic languages harder to learn than arabic languages,oos,out_of_scope,oos,0.1823241813247578,1,4
+which marvel character has appeared in the most movies,oos,out_of_scope,oos,0.1861082248064981,1,4
+"i don't need my reservation, cancel it",cancel_reservation,order_management,cancel_reservation,0.4912872535805244,1,4
+how safe is it to travel to mongolia (how safe is mongolia),travel_alert,delivery_logistics,travel_alert,0.8175405732839591,1,4
+what is the most expensive building on wall street,oos,out_of_scope,oos,0.16978530948209636,1,4
+can i pay a bill,pay_bill,payments_billing,pay_bill,0.8242753569173882,1,4
+my account has a fraudulent transaction i think,report_fraud,complaints_security,report_fraud,0.8904720787477594,1,4
+pay the electric bill,pay_bill,payments_billing,pay_bill,0.6320320918140352,1,4
+what date is my water bill due,bill_due,payments_billing,bill_due,0.7650762508499479,1,4
+send 400 dollars between city bank and usaa accounts,transfer,payments_billing,transfer,0.5388522346876587,1,4
+what were those things i was trying to remember,reminder,scheduling,reminder,0.3498587157470649,1,4
+quit,cancel,order_management,cancel,0.1906155394585746,1,4
+please make me a reservation for monty's at noon for 55555,restaurant_reservation,order_management,restaurant_reservation,0.5122594598411944,1,4
+can you order more printer paper,order,order_management,order,0.3594202624723559,1,4
+can you make a reservation for me at the restaurant,restaurant_reservation,order_management,restaurant_reservation,0.5628726100957591,1,4
+change my seat to an window seat for my flight on monday,oos,out_of_scope,oos,0.15866904072109417,1,4
+how many people fall victim to internet scams per year,oos,out_of_scope,oos,0.22305569142061488,1,4
+i need to see my shopping transactions,transactions,payments_billing,transactions,0.3690073324246438,1,4
+i wish to know why my card was declined yesterday,card_declined,payments_billing,card_declined,0.8658066859335669,1,4
+is checking the mail on my list of reminder,reminder,scheduling,reminder,0.2971711208344993,1,4
+i need to cancel my reservations,cancel_reservation,order_management,cancel_reservation,0.4827814985926991,1,4
+i need to pay my water bill,pay_bill,payments_billing,bill_due,0.38528796834855333,0,4
+verify that i have reservations at chilis for john doe,confirm_reservation,order_management,confirm_reservation,0.20947312825051115,1,4
+how report that scratched my card,damaged_card,complaints_security,damaged_card,0.805066858798388,1,4
+you must reserve a table for 4 at red robin under the name kevin at 7,restaurant_reservation,order_management,restaurant_reservation,0.7793766026176379,1,4
+how long do chipmunks usually live,oos,out_of_scope,oos,0.22259850688380464,1,4
+i want to hear everything on my reminder list,reminder,scheduling,reminder,0.6546617194915109,1,4
+which piano is best for classical,oos,out_of_scope,oos,0.24878320052787326,1,4
+can you tell where my package is,order_status,order_management,order_status,0.7085508261693745,1,4
+when do classes start,oos,out_of_scope,oos,0.18059232087200924,1,4
+dont let me forget to do that thing later,reminder_update,scheduling,cancel,0.14057818504591393,0,4
+i have charges on my amex card i didn't make,report_fraud,complaints_security,report_fraud,0.16531645597012515,1,4
+when is visa due,bill_due,payments_billing,bill_due,0.18857452980946923,1,4
+send 20 dollars from savings to checking,transfer,payments_billing,transfer,0.7716338766575785,1,4
+can you order more chapstick i am all out,order,order_management,order_status,0.6899657304246488,0,4
+set reminder for tomorrow to eat,reminder_update,scheduling,reminder_update,0.7792239664407233,1,4
+what do i have on my list of reminders,reminder,scheduling,reminder,0.9342749209891509,1,4
+what is the status of my recent order,order_status,order_management,order_status,0.600386602036218,1,4
+tell me how to set up a direct deposit,direct_deposit,payments_billing,direct_deposit,0.9084256045500205,1,4
+"what you are doing is not actually helpful, please cancel the action",cancel,order_management,cancel,0.6962299611314042,1,4
+can you pay the bill now,pay_bill,payments_billing,pay_bill,0.8242753569173882,1,4
+i do not have flour so will you order me some more,order,order_management,order,0.3031213400156181,1,4
+i'd like to have everything on the shopping list,order,order_management,order,0.6188200401466317,1,4
+please find the capital of pakistan and its population,oos,out_of_scope,oos,0.11154117601842711,1,4
+please refrain from carrying out the current task,cancel,order_management,cancel,0.4338454781440633,1,4
+i would like to check my reservation for jean at taco house,confirm_reservation,order_management,confirm_reservation,0.34502574818155163,1,4
+"can i make a reservation for 2 at state bird for 6:30, please",restaurant_reservation,order_management,restaurant_reservation,0.5584353792832211,1,4
+can you let me know my latest transactions,transactions,payments_billing,transactions,0.4303835164957977,1,4
+how many pokemon are there,oos,out_of_scope,oos,0.16914629842511636,1,4
+cancel my party reservation for brad at longhorn,cancel_reservation,order_management,cancel_reservation,0.6563424059557769,1,5
+can i cancel my reservation for 4 at red robin,cancel_reservation,order_management,cancel_reservation,0.7032764079712979,1,5
+is there anyone available to help pay an internet bill,pay_bill,payments_billing,pay_bill,0.5446151530391814,1,5
+my reservation for dinner needs to be canceled,cancel_reservation,order_management,cancel_reservation,0.3289186912850574,1,5
+"please cancel what you are doing, i've changed my mind",cancel,order_management,cancel,0.4401762699706991,1,5
+book a reservation for 5 at lawry's under the name chris,restaurant_reservation,order_management,restaurant_reservation,0.25623214606266154,1,5
+how much is my water bill,bill_due,payments_billing,bill_due,0.3104522187414143,1,5
+"can you read my reminder list, please",reminder,scheduling,reminder,0.8024906652722519,1,5
+how much have i spent lately on eating out,spending_history,payments_billing,spending_history,0.5708125333243956,1,5
+locate lost luggage from flight america airlines in o'hare,lost_luggage,delivery_logistics,lost_luggage,0.6053015591974464,1,5
+how many students attend ucsb,oos,out_of_scope,oos,0.1261598874012592,1,5
+what is the total i spent on shoes recently,spending_history,payments_billing,spending_history,0.6801818315451348,1,5
+is the company party on my list of reminders,reminder,scheduling,reminder,0.6587836952684525,1,5
+i need help paying my auto insurance bill,pay_bill,payments_billing,pay_bill,0.5643122995717166,1,5
+my luggage was lost on the flight,lost_luggage,delivery_logistics,lost_luggage,0.8902863584267848,1,5
+it appears that my luggage has vanished,lost_luggage,delivery_logistics,lost_luggage,0.9774147434104216,1,5
+can you see if my order was delivered,order_status,order_management,order_status,0.6978355953841615,1,5
+can you show me how to set up my paycheck to be direct deposit to my first hawaiian bank account,direct_deposit,payments_billing,direct_deposit,0.7084459392333209,1,5
+how can i set up direct deposit,direct_deposit,payments_billing,direct_deposit,0.9766259854220574,1,5
+i need you to send ten dollars from bank of america to capital one,transfer,payments_billing,transfer,0.6080757916739158,1,5
+oops cancel that,cancel,order_management,cancel,0.479344548187563,1,5
+who is radiohead,oos,out_of_scope,oos,0.14141547429682408,1,5
+send over a hundred dollars from huntington into saving,transfer,payments_billing,transfer,0.558195342772622,1,5
+report that the card has been wrecked,damaged_card,complaints_security,damaged_card,0.6063212548535916,1,5
+what are the steps to set up direct deposit to my chase account,direct_deposit,payments_billing,direct_deposit,0.7875717206304343,1,5
+go through all the reminders on my list and state what they are,reminder,scheduling,reminder,0.7475082796093312,1,5
+where can i find my recent transaction history,transactions,payments_billing,transactions,0.7322480666322139,1,5
+is it legal to breed and sell rabbits without a license,oos,out_of_scope,oos,0.15298406473235954,1,5
+any travel advisories for portugal,travel_alert,delivery_logistics,travel_alert,0.9371242907982675,1,5
+get my entire shopping list ordered,order,order_management,order,0.618799182097965,1,5
+"can i still make changes to my order, or has it already been shipped",order_status,order_management,order_status,0.4610326550590197,1,5
+cancel my reservation for chris at jp field's,cancel_reservation,order_management,cancel_reservation,0.8226692224992774,1,5
+i'd like to see last week's atm transactions,transactions,payments_billing,transactions,0.4437922038217377,1,5
+when is my xfinity bill due,bill_due,payments_billing,oos,0.1261598874012592,0,5
+if i got to indonesia is it safe,travel_alert,delivery_logistics,travel_alert,0.25641307907384064,1,5
+please make a reservation for us at joy bar for 4 adults,restaurant_reservation,order_management,restaurant_reservation,0.7765636085568823,1,5
+i have a great western bank account i want direct deposits to go to,direct_deposit,payments_billing,direct_deposit,0.19653669424224118,1,5
+help me tell visa about fraud on my account,report_fraud,complaints_security,report_fraud,0.3063600035285442,1,5
+any alerts for travelers to canada,travel_alert,delivery_logistics,travel_alert,0.36489972783489927,1,5
+i want to know my recent spending,spending_history,payments_billing,transactions,0.1265186126804465,0,5
+can you set me a reminder,reminder_update,scheduling,reminder_update,0.9527904789675474,1,5
+when can i expect to receive the order,order_status,order_management,order_status,0.2719444781408408,1,5
+"i actually don't want this anymore, please abort",cancel,order_management,cancel,0.5011656126234246,1,5
+can you confirm my reservation for torris at 7:00,confirm_reservation,order_management,confirm_reservation,0.9338650625654082,1,5
+it seems my luggage was lost,lost_luggage,delivery_logistics,lost_luggage,0.9349625657094494,1,5
+i think i have fraud on my account from walmart,report_fraud,complaints_security,report_fraud,0.41745383993806445,1,5
+has my recent order shipped,order_status,order_management,order_status,0.41051170131011727,1,5
+whats the due date for z bill,bill_due,payments_billing,bill_due,0.3901780735709858,1,5
+can you set a reminder for the meeting,reminder_update,scheduling,reminder_update,0.8341151076303196,1,5
+make a reminder for me to do my resume,reminder_update,scheduling,reminder_update,0.8291644782317316,1,5
+when's the ac bill due,bill_due,payments_billing,oos,0.1261598874012592,0,5
+have i been spending a lot on shoes lately,spending_history,payments_billing,spending_history,0.5399063639768146,1,5
+i don't know who to notify that i ran my credit card over with the lawn mower,damaged_card,complaints_security,damaged_card,0.25390242783658656,1,5
+i don't understand why my card was declined yesterday,card_declined,payments_billing,card_declined,0.8261559284623093,1,5
+if i go to baltimore will i be safe,travel_alert,delivery_logistics,travel_alert,0.43449506321173426,1,6
+how expensive was my most recent transaction,transactions,payments_billing,transactions,0.6420462805841706,1,6
+i wanna confirm my reservation for 2/20 at 8 pm,confirm_reservation,order_management,confirm_reservation,0.7651952219897393,1,6
+while on flight america airlines i lost luggage in o'hare,lost_luggage,delivery_logistics,lost_luggage,0.742997351579322,1,6
+i'd like a reservation for 2 at olive garden for 5 pm today,restaurant_reservation,order_management,restaurant_reservation,0.3279212490713793,1,6
+how do i set up direct deposit to my bank of hawaii account,direct_deposit,payments_billing,direct_deposit,0.9525036054245145,1,6
+could you check my account and let me know how much i spent on food in january,spending_history,payments_billing,spending_history,0.41263247150101556,1,6
+what is the tracking on my package,order_status,order_management,order_status,0.6192631286185637,1,6
+how long do wire transfers take,oos,out_of_scope,oos,0.15606646132747423,1,6
+"hello, i'd like a reservation for two at the olive garden at six tonight",restaurant_reservation,order_management,restaurant_reservation,0.22884423612585442,1,6
+is it possible to pay my bill,pay_bill,payments_billing,pay_bill,0.37652155766324713,1,6
+i want to pay my amazon credit card but i need to know the last few transactions,transactions,payments_billing,transactions,0.19988677528753465,1,6
+"my card is cracked, please tell the card company",damaged_card,complaints_security,damaged_card,0.4723027018790014,1,6
+why was my card declined yesterday,card_declined,payments_billing,card_declined,0.9502451639391305,1,6
+can you explain why my card was declined,card_declined,payments_billing,card_declined,0.6940918878959241,1,6
+are you able to answer algebra equations,oos,out_of_scope,oos,0.10776197799972574,1,6
+"could you check to see if my order has been delivered, please",order_status,order_management,order_status,0.7121945767572885,1,6
+i want to pay my car bill,pay_bill,payments_billing,pay_bill,0.613149257601022,1,6
+"i would like to confirm my 7:30 pm reservation at morton's steakhouse, under michael james",confirm_reservation,order_management,confirm_reservation,0.3174572055823378,1,6
+"can i make a reservation for 2 at state bird for 8:30, please",restaurant_reservation,order_management,restaurant_reservation,0.5584353792832211,1,6
+take $40 and transfer it to account a from b,transfer,payments_billing,transfer,0.7127809563419198,1,6
+reserve a table for four for tonight at 7 at the fatted calf,restaurant_reservation,order_management,restaurant_reservation,0.7289108714895652,1,6
+just shut up,cancel,order_management,oos,0.11829974606182272,0,6
+i went to target to buy a mug but my card did not work,card_declined,payments_billing,card_declined,0.315933725889587,1,6
+what is the largest state in the us,oos,out_of_scope,oos,0.15262596432524753,1,6
+when did camus die,oos,out_of_scope,spending_history,0.33897829528952655,0,6
+on my list of reminders is what,reminder,scheduling,reminder,0.9342749209891509,1,6
+can you transfer $5 from savings to checking,transfer,payments_billing,transfer,0.7339266185842457,1,6
+"i creased my card today, contact the bank",damaged_card,complaints_security,damaged_card,0.21550217655584375,1,6
+my credit card fell out of my back pocket and got flushed down the toilet,damaged_card,complaints_security,damaged_card,0.44302727640977413,1,6
+is there someone i can talk to since i am in the airport waiting for my luggage which never came,lost_luggage,delivery_logistics,lost_luggage,0.7553590724061304,1,6
+do i have anything in my reminders,reminder,scheduling,reminder,0.8194694526544906,1,6
+what's trending in 90s television shows on netflix,oos,out_of_scope,oos,0.13872171972813163,1,6
+take 100 dollars from checking and send it to savings,transfer,payments_billing,transfer,0.6900689833336416,1,6
+can you get me a table for 3 at captain d's at 2pm,restaurant_reservation,order_management,restaurant_reservation,0.3486286716969017,1,6
+what are some ways to reduce spending,oos,out_of_scope,spending_history,0.16322700115529895,0,6
+i no longer need the reservation for 20 at ihop,cancel_reservation,order_management,cancel_reservation,0.2274133324849702,1,6
+would it be safe to go to columbia,travel_alert,delivery_logistics,travel_alert,0.24727358084500708,1,6
+i got to report fraudulent activity on my credit card,report_fraud,complaints_security,report_fraud,0.7532820228118802,1,6
+i do not have pizza so will you order me some more,order,order_management,order_status,0.32562776252047265,0,6
+my luggage was on delta flight abc123 out of houston and now i can’t find it,lost_luggage,delivery_logistics,lost_luggage,0.4971143971493435,1,6
+please confirm my reservation for thursday at 10am,confirm_reservation,order_management,confirm_reservation,0.8647700197956812,1,6
+how do i get paychecks put directly in my sunflower savings account,direct_deposit,payments_billing,transfer,0.20892799069788173,0,6
+i think my card was declined at wal mart and i want to know why,card_declined,payments_billing,card_declined,0.391247413142698,1,6
+will you order me some more lysol spray,order,order_management,order,0.36949846100288186,1,6
+how to tell the company that my credit card melted,damaged_card,complaints_security,damaged_card,0.4070243486061103,1,6
+do i have reservations at creme at 7 pm,confirm_reservation,order_management,confirm_reservation,0.4727686264865402,1,6
+can you cancelt the reservation i have for dinner,cancel_reservation,order_management,cancel_reservation,0.5454504745541253,1,6
+why did you decline my card at sfo,card_declined,payments_billing,card_declined,0.3714487752874923,1,6
+can you remind me what i was trying to remember,reminder,scheduling,reminder_update,0.2268994456214482,0,6
+can you restart my phone,oos,out_of_scope,bill_due,0.14905601707465752,0,6
+what are some deals on amazon,oos,out_of_scope,order,0.12173458932605247,0,6
+"forget it, i do not need it anymore",cancel,order_management,cancel,0.16843215481200993,1,6
+are there any alerts for travelling to beirut,travel_alert,delivery_logistics,travel_alert,0.6484280116041319,1,7
+can i get paychecks directly deposited to my bank of america account,direct_deposit,payments_billing,transfer,0.1787483891680446,0,7
+remind me to take out the garbage in the morning,reminder_update,scheduling,reminder_update,0.47829827550535686,1,7
+may i get all of the food transactions that were made last month,transactions,payments_billing,transactions,0.7009651647166397,1,7
+should i be worried about any travel alerts for that country,travel_alert,delivery_logistics,travel_alert,0.9408298283779356,1,7
+set a reminder for me,reminder_update,scheduling,reminder_update,0.9527904789675474,1,7
+please get everything on my shopping list,order,order_management,order,0.8164285939762101,1,7
+do you know when my next electric bill is due,bill_due,payments_billing,bill_due,0.38293592948606275,1,7
+when's the gas bill due,bill_due,payments_billing,bill_due,0.23491125153338394,1,7
+is there a specific way to set up direct deposit,direct_deposit,payments_billing,direct_deposit,0.9140724509356799,1,7
+have i been spending a ton of money on movies lately,spending_history,payments_billing,spending_history,0.40604737871782143,1,7
+when do i need to pay my at&t bill,bill_due,payments_billing,pay_bill,0.5597560889768561,0,7
+how much did i spend on christmas gifts in december,spending_history,payments_billing,spending_history,0.6350333667528371,1,7
+are you able to figure out where my package is,order_status,order_management,order_status,0.43336692443782604,1,7
+do a websearch for direct deposit set up,direct_deposit,payments_billing,direct_deposit,0.8899161972624253,1,7
+can you tell me all the reminders i have set on my reminder list,reminder,scheduling,reminder,0.8688124492017748,1,7
+send over 50 dollars between my shared and not shared accounts,transfer,payments_billing,transfer,0.563538467073393,1,7
+whats the deadline for amex payment,bill_due,payments_billing,bill_due,0.14998467117457603,1,7
+"my luggage did not arrive, please investigate",lost_luggage,delivery_logistics,lost_luggage,0.35174008992799916,1,7
+i want you to order everything on my shopping list,order,order_management,order,0.8911883101309483,1,7
+what's it been costing me to buy three packs a day,spending_history,payments_billing,order,0.25128359654906707,0,7
+show me recent transactions,transactions,payments_billing,transactions,0.9035776967831453,1,7
+looks like someone made an unauthorized charge to nike on my account,report_fraud,complaints_security,report_fraud,0.3109183072101697,1,7
+what was the last thing i purchased,transactions,payments_billing,oos,0.11352143068848107,0,7
+i arrived on delta flight ab123 from juno but my luggage doesn't appear to have come with me,lost_luggage,delivery_logistics,lost_luggage,0.6668398156106707,1,7
+how many ways can i make $1 using standard us coins,oos,out_of_scope,oos,0.10501781224357956,1,7
+can you verify that i have a reservation at o'reilly's for 9,confirm_reservation,order_management,confirm_reservation,0.17456008493549421,1,7
+how much money did i spend on tent equipment four hours ago,spending_history,payments_billing,spending_history,0.5822740321217255,1,7
+create a reminder to pay taxes on monday,reminder_update,scheduling,reminder_update,0.5172723173818754,1,7
+halt,cancel,order_management,cancel,0.1712217780078914,1,7
+can you assist me in paying my electric bill,pay_bill,payments_billing,pay_bill,0.313284380222534,1,7
+i want my reservation for march 1 at 8 pm confirmed,confirm_reservation,order_management,confirm_reservation,0.35937234014201747,1,7
+purchase a computer for me,order,order_management,order,0.1772792485530849,1,7
+will you take my bill payment,pay_bill,payments_billing,bill_due,0.34398470643412626,0,7
+how long do mosquito's live,oos,out_of_scope,oos,0.22259850688380464,1,7
+i was on delta flight ab123 out of new york and haven't been able to locate my luggage,lost_luggage,delivery_logistics,lost_luggage,0.6105161007203859,1,7
+show me the transaction on macys,transactions,payments_billing,transactions,0.43151618493926525,1,7
+can you get me a table for 5 at johnnys,restaurant_reservation,order_management,restaurant_reservation,0.4609143388633919,1,7
+"i can not use my card, it is damaged",damaged_card,complaints_security,damaged_card,0.6905992681713642,1,7
+what is the highest earning game on atari,oos,out_of_scope,oos,0.17681724747247185,1,7
+have i have been spending a lot of money on shoes,spending_history,payments_billing,spending_history,0.4836617147376208,1,7
+how much have i spent on clothes recently,spending_history,payments_billing,spending_history,0.6938772398828075,1,7
+i have a fraudulent transaction from wal mart on my account,report_fraud,complaints_security,report_fraud,0.588638503020125,1,7
+i want to see my recent transaction,transactions,payments_billing,transactions,0.7353136561514535,1,7
+what is the exact due date for my mortgage payment,bill_due,payments_billing,bill_due,0.5905417259467126,1,7
+i no longer need my reservation with carl at umami,cancel_reservation,order_management,cancel_reservation,0.35544358189249736,1,7
+where are there current travel alerts,travel_alert,delivery_logistics,travel_alert,0.9266510166623829,1,7
+pay my insurance bill,pay_bill,payments_billing,bill_due,0.3038309650529244,0,7
+how much do i spend going out to eat,spending_history,payments_billing,spending_history,0.24190237705572887,1,7
+speak back to me what's on my reminder list,reminder,scheduling,reminder,0.6493808788094819,1,7
+bloomingdale's declined my card and i'd like to know why,card_declined,payments_billing,card_declined,0.41005769126655034,1,7
+i think a thief used my card,report_fraud,complaints_security,report_fraud,0.2696557864093708,1,7
+i'd like to report a fraudulent charge from people's natural gas,report_fraud,complaints_security,report_fraud,0.48394270710684195,1,7
+set up payroll direct deposit to my checking account,direct_deposit,payments_billing,direct_deposit,0.7209827663940105,1,7
+can you please help me locate my luggage,lost_luggage,delivery_logistics,lost_luggage,0.36082512545649775,1,8
+i lost my luggage coming from new york city on american flight ab123,lost_luggage,delivery_logistics,lost_luggage,0.7447761168977272,1,8
+i wanna know why my card was declined,card_declined,payments_billing,card_declined,0.7850137714798647,1,8
+can you check to see if my order has been delivered,order_status,order_management,order_status,0.7121945767572885,1,8
+who do i go to to find lost luggage,lost_luggage,delivery_logistics,lost_luggage,0.958370445708029,1,8
+find out the status of my most recent online purchase,order_status,order_management,order_status,0.2473779739492432,1,8
+i have a fraudulent transaction from wal mart on my account right now,report_fraud,complaints_security,report_fraud,0.5280803073663759,1,8
+what's on my reminder list today,reminder,scheduling,reminder,0.721663272453876,1,8
+my bags did not arrive here at smf,lost_luggage,delivery_logistics,lost_luggage,0.10518835634453273,1,8
+i'm having trouble finding my luggage i was on delta flight ab123 out of new york,lost_luggage,delivery_logistics,lost_luggage,0.6698527790199252,1,8
+can i cancel my reservations please,cancel_reservation,order_management,cancel_reservation,0.5408480509530095,1,8
+i want to make sure my reservation for 5 at mcdonalds is still set,confirm_reservation,order_management,confirm_reservation,0.1409121936621648,1,8
+is it safe to travel to iceland,travel_alert,delivery_logistics,travel_alert,0.8601413560821661,1,8
+did i set up a reminder to clean the bathroom,reminder,scheduling,reminder_update,0.776730582786665,0,8
+i want to verify my reservation for the 18th at 1pm,confirm_reservation,order_management,confirm_reservation,0.20745361776026897,1,8
+please remind me at a later time,reminder_update,scheduling,reminder_update,0.48558023141378187,1,8
+do i have any reminders to look up how to properly do a potato in my microwave,reminder,scheduling,reminder,0.42871264585842994,1,8
+how much have i lately spent on eating out,spending_history,payments_billing,spending_history,0.6548694741838197,1,8
+please tell me why walgreen's wouldn't take my card,card_declined,payments_billing,damaged_card,0.4387073581358929,0,8
+what is slope of an inverted line,oos,out_of_scope,oos,0.1443020282577837,1,8
+when do i need to pay the cable bill,bill_due,payments_billing,pay_bill,0.7020241406867599,0,8
+quiet now,cancel,order_management,cancel,0.38362815827333074,1,8
+cancel my reservation for dinner,cancel_reservation,order_management,cancel_reservation,0.9180188314711876,1,8
+"what the heck, where's my luggage!",lost_luggage,delivery_logistics,lost_luggage,0.9774147434104216,1,8
+can you walk me through setting up direct deposit,direct_deposit,payments_billing,direct_deposit,0.8801751357991557,1,8
+get rid of my 4 pm reservation at the steakhouse please,cancel_reservation,order_management,restaurant_reservation,0.21312296793977442,0,8
+can you list me tiger wood's stats,oos,out_of_scope,reminder,0.7658145826765838,0,8
+i need a replacement phone charger ordered online,order,order_management,order,0.1015032261840429,1,8
+when was toyota created,oos,out_of_scope,oos,0.18576113397455907,1,8
+how do i get my check directly deposited,direct_deposit,payments_billing,direct_deposit,0.14550833880799788,1,8
+what is the due date of my at&t bill,bill_due,payments_billing,bill_due,0.7215715701562937,1,8
+send 2000 dollars between chase and rabobank accounts,transfer,payments_billing,transfer,0.4956038237343942,1,8
+what is the origin of the name michael,oos,out_of_scope,oos,0.1261598874012592,1,8
+why was my card declined at safeway,card_declined,payments_billing,card_declined,0.9652539474039485,1,8
+the chip on my card is damaged and i need a new one,damaged_card,complaints_security,damaged_card,0.47099967916853225,1,8
+"i just placed my order today, what is the status of it",order_status,order_management,order_status,0.5806298970012886,1,8
+can you update me on my last amazon orders,order_status,order_management,order_status,0.11937642016293566,1,8
+what date is my at&t bill due,bill_due,payments_billing,bill_due,0.7215715701562937,1,8
+in o'hare lost luggage on flight america airlines,lost_luggage,delivery_logistics,lost_luggage,0.6349821363135603,1,8
+how can i turn on direct deposit,direct_deposit,payments_billing,direct_deposit,0.9719379714468245,1,8
+"i want to report fraudulent activity on my visa card, please",report_fraud,complaints_security,report_fraud,0.7910446501946062,1,8
+oh shut the hell up would you,cancel,order_management,oos,0.12377550459708346,0,8
+what is the status of my online order,order_status,order_management,order_status,0.8108442895639852,1,8
+i flew on southwest airlines flight ab123 out of dallas and i can not find my luggage,lost_luggage,delivery_logistics,lost_luggage,0.6267659732713687,1,8
+remind me to call the vet tomorrow,reminder_update,scheduling,reminder_update,0.6444228026347177,1,8
+i may have a fraudulent transaction,report_fraud,complaints_security,report_fraud,0.822983096262589,1,8
+can i get my transactions for the date of the 23rd,transactions,payments_billing,transactions,0.5499196179291991,1,8
+i think i made a fraudulent transaction,report_fraud,complaints_security,report_fraud,0.8409752593465806,1,8
+pay my cell bill from my deposit account,pay_bill,payments_billing,pay_bill,0.36210936079514033,1,8
+can you tell me when my peco energy bill is due this month,bill_due,payments_billing,transactions,0.18811387266200785,0,8
+what species of oak tree grows to be the tallest,oos,out_of_scope,oos,0.1656473430372945,1,8
+what did i spend at bath and body works last month,spending_history,payments_billing,spending_history,0.6549533946701768,1,8
+please order me a 7lb bag of world's best cat litter from targetcom,order,order_management,order,0.16266583690615677,1,8
+cancel action,cancel,order_management,cancel,0.5816524369132635,1,8
+"who is the oscar who ""the oscar's"" is named after",oos,out_of_scope,oos,0.20292634977154614,1,9
+go ahead and close the reservation,cancel_reservation,order_management,cancel_reservation,0.19412546265837888,1,9
+"i bent my card, can you report it to my bank",damaged_card,complaints_security,damaged_card,0.5488550952325851,1,9
+have i been spending more money at restaurants,spending_history,payments_billing,spending_history,0.3658806302705923,1,9
+i have to transfer from one account to my other one,transfer,payments_billing,transfer,0.8053413169215526,1,9
+i'm out of conditioner so will you order me some more,order,order_management,order_status,0.6899657304246488,0,9
+set a reminder for my doctors appointment,reminder_update,scheduling,reminder_update,0.9527904789675474,1,9
+on the card can you give me the last transactions,transactions,payments_billing,transactions,0.5335562334884693,1,9
+it seems someone conducted a fraudulent transaction on my account,report_fraud,complaints_security,report_fraud,0.8805724671735803,1,9
+how do i find a common denominator,oos,out_of_scope,oos,0.1261598874012592,1,9
+is respond to the professor's email on my list of reminders,reminder,scheduling,reminder,0.7729486903208074,1,9
+can you buy something from walmartcom for me,order,order_management,order,0.6016332294602801,1,9
+find out why my card was declined,card_declined,payments_billing,card_declined,0.9652539474039485,1,9
+could you please track my package,order_status,order_management,order_status,0.7391096231248895,1,9
+i need to be notified to clean the room,reminder_update,scheduling,reminder_update,0.11660882347375671,1,9
+what color is the car,oos,out_of_scope,oos,0.1412335027261493,1,9
+have i been spending a lot on take out lately,spending_history,payments_billing,spending_history,0.6709130262625081,1,9
+report to the company that i damaged my card,damaged_card,complaints_security,damaged_card,0.7783233790836508,1,9
+i want to see the list of transaction on my bank of hawaii,transactions,payments_billing,transactions,0.2478970673863396,1,9
+"my luggage is lost, i was on american airlines ab123 out of los angeles",lost_luggage,delivery_logistics,lost_luggage,0.8544961970274072,1,9
+can you tell me if there's a travel alert for that country,travel_alert,delivery_logistics,travel_alert,0.6309356520705502,1,9
+i need to know what i have spent on food recently,spending_history,payments_billing,spending_history,0.6505314198271386,1,9
+how do i find when my medical bill is due,bill_due,payments_billing,oos,0.12118932384290644,0,9
+i need to find my luggage,lost_luggage,delivery_logistics,lost_luggage,0.5348836199823672,1,9
+i'd like to have my paycheck direct deposited to my chase account,direct_deposit,payments_billing,direct_deposit,0.4374882882352128,1,9
+my luggage has not arrived and i would like help locating it,lost_luggage,delivery_logistics,lost_luggage,0.33803023666611426,1,9
+can i set a reminder,reminder_update,scheduling,reminder_update,0.9527904789675474,1,9
+help me set up a direct deposit,direct_deposit,payments_billing,direct_deposit,0.9170469826668638,1,9
+how many players are on the chicago bulls,oos,out_of_scope,oos,0.15846723605546273,1,9
+submit order for everything,order,order_management,order_status,0.6899657304246488,0,9
+put $20000 into my checking account from my savings account,transfer,payments_billing,transfer,0.6224431137108728,1,9
+"""i need to report fraudulent activity to my card company",report_fraud,complaints_security,report_fraud,0.7469723568774613,1,9
+how do i set up instant paycheck,direct_deposit,payments_billing,direct_deposit,0.3174098298730681,1,9
+could you stop please,cancel,order_management,cancel,0.7663480882981357,1,9
+send 100 dollars from checking to savings,transfer,payments_billing,transfer,0.6909809514002748,1,9
+let me know what's on my list of reminders,reminder,scheduling,reminder,0.5987256935437416,1,9
+i need to talk to someone about a transaction that was not made by me on my chase account,report_fraud,complaints_security,transactions,0.18215412827122077,0,9
+set a reminder for monday pay taxes,reminder_update,scheduling,reminder_update,0.7251745257943525,1,9
+when was kobe bryant born,oos,out_of_scope,oos,0.17960354666769854,1,9
+undo this process,cancel,order_management,cancel,0.25601133463081194,1,9
+confirm my reservation for red robin at 8,confirm_reservation,order_management,confirm_reservation,0.8374051989969366,1,9
+please transfer $x from checking to saving,transfer,payments_billing,transfer,0.7254314199610268,1,9
+what is the due date on my xfinity internet bill for february,bill_due,payments_billing,bill_due,0.37121512028843406,1,9
+i'm afraid there is a false transaction on my account,report_fraud,complaints_security,transactions,0.3640764471941275,0,9
+"hello, i need to cancel tonight's reservation for dinner",cancel_reservation,order_management,cancel_reservation,0.6576055572540922,1,9
+"stop, i changed my mind",cancel,order_management,cancel,0.5186939616058823,1,9
+i need to know the travel alerts for kenya,travel_alert,delivery_logistics,travel_alert,0.6434601810736388,1,9
+set a reminder for me to take my meds,reminder_update,scheduling,reminder_update,0.9527904789675474,1,9
+is it difficult to be successful on wall street,oos,out_of_scope,oos,0.1580896817796877,1,9
+i need a reminder to remind me to do something,reminder_update,scheduling,reminder_update,0.833237374263268,1,9
+help me set up direct deposit to my bank of hawaii checking account,direct_deposit,payments_billing,direct_deposit,0.8008992484811288,1,9
+"order some cat for me, i ran out",order,order_management,order,0.3486578846555537,1,9
+cancel my 6:00 reservation at the cheesecake factory,cancel_reservation,order_management,cancel_reservation,0.7000911140255228,1,9
+i'd like to cancel the party of 7 we reserved at the olive garden,cancel_reservation,order_management,cancel_reservation,0.13992295978219807,1,9
+is there overtime in college football,oos,out_of_scope,oos,0.18392807168585532,1,6
+i need everything on my shopping list to be ordered,order,order_management,order,0.6990497934521468,1,6
+can you see the second right inside the fridge,oos,out_of_scope,oos,0.17426059865468252,1,6
+what's the best time of year to plant a tree,oos,out_of_scope,oos,0.3025396847461242,1,6
+pay my gas bill from my saving account,pay_bill,payments_billing,pay_bill,0.41826656809472795,1,6
+"i need some more lysol, could you order me some",order,order_management,order,0.4190420722800612,1,6
+what other nations were involved in the chinese trade war,oos,out_of_scope,oos,0.219410687887753,1,6
+who is the coach of the chicago bulls,oos,out_of_scope,oos,0.17137781469591037,1,6
+i need a replacement phone charger ordered online,order,order_management,order,0.1015032261840429,1,6
+give me the local newsi,oos,out_of_scope,oos,0.15812757811554398,1,6
+how do i find when my cable bill is due,bill_due,payments_billing,bill_due,0.17954072062931103,1,6
+i need to pay my bill,pay_bill,payments_billing,pay_bill,0.5597560889768561,1,6
+i need to pay my water bill,pay_bill,payments_billing,bill_due,0.38528796834855333,0,6
+i'm out of lysol could you order me some,order,order_management,order,0.4464862211012567,1,6
+are you able to purchase underpants for me,order,order_management,order,0.38044363045290536,1,6
+whats the deadline for amex payment,bill_due,payments_billing,bill_due,0.14998467117457603,1,6
+will you order me some more lysol spray,order,order_management,order,0.36949846100288186,1,6
+please buy me flowers,order,order_management,order,0.3009633449195817,1,6
+how do you get an oscar,oos,out_of_scope,oos,0.20292634977154614,1,6
+i want you to buy me a shirt,order,order_management,order,0.37939982052022236,1,6
+can you tell me how to figure a percentage of a number,oos,out_of_scope,oos,0.20215164429622687,1,6
+how long do chipmunks usually live,oos,out_of_scope,oos,0.22259850688380464,1,6
+will there be a new season of true detective,oos,out_of_scope,oos,0.17667167177601242,1,6
+what is saas marketing,oos,out_of_scope,oos,0.2247494022775185,1,6
+why do males want to be alpha,oos,out_of_scope,oos,0.18596063546000838,1,6
+how many people fall victim to internet scams per year,oos,out_of_scope,oos,0.22305569142061488,1,6
+how much is my water bill,bill_due,payments_billing,bill_due,0.3104522187414143,1,6
+what's the fastest growing stock of 2019,oos,out_of_scope,oos,0.19901191594706433,1,6
+where was salt created,oos,out_of_scope,oos,0.18576113397455907,1,6
+i'd like to have everything on the shopping list,order,order_management,order,0.6188200401466317,1,6
+i want to pay my gas bill,pay_bill,payments_billing,pay_bill,0.7234926258066805,1,7
+where do i find information on when the water bill is due,bill_due,payments_billing,bill_due,0.24914028666981597,1,7
+what are some ways to prepare portabello mushrooms,oos,out_of_scope,oos,0.1706437032704864,1,7
+is the stock market up or down today,oos,out_of_scope,oos,0.21587485420410618,1,7
+where was john denver born,oos,out_of_scope,oos,0.18329297627161575,1,7
+can you forward this email to my boss,oos,out_of_scope,oos,0.18496639844441878,1,7
+how many pokemon are there,oos,out_of_scope,oos,0.16914629842511636,1,7
+i'd like to buy some cooking pans,order,order_management,order,0.2651213058663551,1,7
+please find the exact payment due date for my sprint phone bill,bill_due,payments_billing,bill_due,0.4564789122315024,1,7
+why are exponents preformed before multiplication in the order of operations,oos,out_of_scope,oos,0.14404027403304764,1,7
+is it legal to breed and sell rabbits without a license,oos,out_of_scope,oos,0.15298406473235954,1,7
+get everything on my shopping list,order,order_management,order,0.8164285939762101,1,7
+when's the next movie starring thor set to come out,oos,out_of_scope,oos,0.1550649155252998,1,7
+what's my horoscope today,oos,out_of_scope,oos,0.17460708712334158,1,7
+when is my next car payment,bill_due,payments_billing,bill_due,0.37122400885847656,1,7
+can you see the second right inside the fridge,oos,out_of_scope,oos,0.17426059865468252,1,7
+find out for me what kind of benefits military veterans have after retirement,oos,out_of_scope,oos,0.23597651251352503,1,7
+what do the values of numbers mean non-numerically,oos,out_of_scope,oos,0.19485186394607384,1,7
+when do i have to pay my electric bill by,bill_due,payments_billing,pay_bill,0.6320320918140352,0,7
+can i pay a bill,pay_bill,payments_billing,pay_bill,0.8242753569173882,1,7
+how long do i have left to pay for my chase credit card,bill_due,payments_billing,bill_due,0.3608848103685153,1,7
+i want to pay my car payment,pay_bill,payments_billing,pay_bill,0.5927653162602378,1,7
+what's the most dominant scale in bluegrass,oos,out_of_scope,oos,0.14395613773705754,1,7
+please save my draft for me so i can work on it later,oos,out_of_scope,oos,0.16213447744480883,1,7
+can you order more chapstick i am all out,order,order_management,order_status,0.6899657304246488,0,7
+which sport is the most fun,oos,out_of_scope,oos,0.18849971855606584,1,7
+what's the most effective bug repellant,oos,out_of_scope,oos,0.17339984517367962,1,7
+please order me everything that is on my shopping list,order,order_management,order,0.8913825132722192,1,7
+i need the new due date for my pgw gas bill,bill_due,payments_billing,bill_due,0.3397064107397602,1,7
+when is the bill due,bill_due,payments_billing,oos,0.1261598874012592,0,7
+pay my insurance bill,pay_bill,payments_billing,bill_due,0.3038309650529244,0,8
+when do i need to pay my annual payment for auto insurance,bill_due,payments_billing,bill_due,0.4069945306877598,1,8
+is the bachelor on tonight,oos,out_of_scope,cancel_reservation,0.1223029585918508,0,8
+is there overtime in college football,oos,out_of_scope,oos,0.18392807168585532,1,8
+how can i know when my cable bill is due,bill_due,payments_billing,bill_due,0.2940361809106323,1,8
+any headlines from my areai,oos,out_of_scope,oos,0.17339984517367957,1,8
+who are some notable alumni of ucsd,oos,out_of_scope,oos,0.1903779411066123,1,8
+what are some of picasso's most famous works,oos,out_of_scope,oos,0.18517882070010017,1,8
+when do classes start,oos,out_of_scope,oos,0.18059232087200924,1,8
+how fast does an airplane travel,oos,out_of_scope,travel_alert,0.7986829931075617,0,8
+can you help me pay a bill,pay_bill,payments_billing,pay_bill,0.8107653154065562,1,8
+how many oscars did star wars films win,oos,out_of_scope,oos,0.18287217811035883,1,8
+i want to do a payment on my water bill,pay_bill,payments_billing,pay_bill,0.24128617069784605,1,8
+tell me when my bill will be due,bill_due,payments_billing,bill_due,0.14664402734678986,1,8
+i must pay my cable bill from my checking account,pay_bill,payments_billing,pay_bill,0.6869417335613539,1,8
+what are my local news stations,oos,out_of_scope,oos,0.18587160197583602,1,8
+how many students attend ucsb,oos,out_of_scope,oos,0.1261598874012592,1,8
+who is radiohead,oos,out_of_scope,oos,0.14141547429682408,1,8
+what other nations were involved in the chinese trade war,oos,out_of_scope,oos,0.219410687887753,1,8
+i need to know the due date for my credit card,bill_due,payments_billing,bill_due,0.5117825770216616,1,8
+put in the order for everything on my shopping list,order,order_management,order,0.8913825132722192,1,8
+is the shutdown over,oos,out_of_scope,oos,0.1261598874012592,1,8
+will you block non-kid friendly shows,oos,out_of_scope,oos,0.17843463482801955,1,8
+i need help paying my hoa bill,pay_bill,payments_billing,pay_bill,0.4596076206864917,1,8
+how do you know if a mushroom is edible,oos,out_of_scope,oos,0.16852876046318827,1,8
+how do i remove a coffee blemish,oos,out_of_scope,oos,0.18159615498369255,1,8
+what is saas marketing,oos,out_of_scope,oos,0.2247494022775185,1,8
+i don't have ice cream so will you order me some more,order,order_management,order,0.3237169592689246,1,8
+who are some notable alumni of ucsd,oos,out_of_scope,oos,0.1903779411066123,1,8
+what day do i have to pay for my capital one card,bill_due,payments_billing,bill_due,0.38630577934689525,1,8
+i'm out of soap so will you order me some more,order,order_management,order_status,0.6899657304246488,0,9
+i'm ready to put in the order for everything on my shopping list,order,order_management,order,0.7080429752181927,1,9
+what date do i have to pay my bill,bill_due,payments_billing,bill_due,0.6428605703362792,1,9
+what's the average battery life of an android phone,oos,out_of_scope,oos,0.1706121559115815,1,9
+i'm out of detergent so will you order me some more,order,order_management,order,0.3054988667913004,1,9
+where can i find the cruise control on my kia sportage 2010,oos,out_of_scope,oos,0.20556049838776264,1,9
+i am needing you to buy me some shoes,order,order_management,order,0.27224097369759265,1,9
+can you tell me how to figure a percentage of a number,oos,out_of_scope,oos,0.20215164429622687,1,9
+i'd like to buy some cooking pans,order,order_management,order,0.2651213058663551,1,9
+i would like everything on my shopping list ordered,order,order_management,order,0.6543366905714016,1,9
+i do not have pizza so will you order me some more,order,order_management,order_status,0.32562776252047265,0,9
+i would like you to buy me some paper plates,order,order_management,order,0.34978291705079056,1,9
+what are the pros and cons of credit cards,oos,out_of_scope,bill_due,0.13919337031715467,0,9
+what is the most popular airline,oos,out_of_scope,oos,0.19537530899233585,1,9
+when's the gas bill due,bill_due,payments_billing,bill_due,0.23491125153338394,1,9
+what's my horoscope today,oos,out_of_scope,oos,0.17460708712334158,1,9
+use my capital one account to pay for my gas bill,pay_bill,payments_billing,pay_bill,0.428151007339506,1,9
+what animals have alpha males,oos,out_of_scope,oos,0.22988097830173362,1,9
+can you order more chapstick i am all out,order,order_management,order_status,0.6899657304246488,0,9
+what animals have alpha males,oos,out_of_scope,oos,0.22988097830173362,1,9
+where do squirrels's live,oos,out_of_scope,oos,0.22347530213580213,1,9
+i'm out of conditioner so will you order me some more,order,order_management,order_status,0.6899657304246488,0,9
+i am currently out of q tips and need more ordered right away,order,order_management,order,0.1811905631517652,1,9
+when do i owe the rent,bill_due,payments_billing,bill_due,0.2569712039728016,1,9
+when's my heater bill due,bill_due,payments_billing,oos,0.1261598874012592,0,9
+what is the origin of the name michael,oos,out_of_scope,oos,0.1261598874012592,1,9
+is time travel to the past theoretically possible,oos,out_of_scope,travel_alert,0.16339412275975515,0,9
+i'm out of soap so will you order me some more,order,order_management,order_status,0.6899657304246488,0,9
+can you help me pay a bill,pay_bill,payments_billing,pay_bill,0.8107653154065562,1,9
+when do i have to pay my water bill by,bill_due,payments_billing,bill_due,0.4327363193529193,1,9
