@@ -1,0 +1,73 @@
+{
+  "total_accounts": 5881,
+  "churn_rate": 0.5079068185682707,
+  "at_risk_accounts": 1883,
+  "value_at_risk": 579035.071,
+  "segments": {
+    "Lost": 2046,
+    "Champions": 1174,
+    "New / Occasional": 895,
+    "Loyal": 885,
+    "At Risk (was loyal)": 881
+  },
+  "total_conversations": 658,
+  "accuracy": 0.8951367781155015,
+  "n_alerts": 1,
+  "n_batches": 10,
+  "batch_labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "batch_accuracy": [
+    0.8888888888888888,
+    0.8703703703703703,
+    0.9444444444444444,
+    0.8867924528301887,
+    0.9444444444444444,
+    0.9444444444444444,
+    0.891566265060241,
+    0.8928571428571429,
+    0.8809523809523809,
+    0.8452380952380952
+  ],
+  "batch_alert": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "confused_pairs": [
+    "order -> order_status",
+    "bill_due -> oos",
+    "pay_bill -> bill_due",
+    "cancel -> oos",
+    "bill_due -> pay_bill",
+    "oos -> travel_alert",
+    "oos -> bill_due",
+    "card_declined -> damaged_card"
+  ],
+  "confused_counts": [
+    11,
+    7,
+    5,
+    4,
+    3,
+    3,
+    3,
+    2
+  ]
+}

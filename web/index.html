@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WhatsApp AI Predictive Intelligence</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #f7f8fa;
+    --card-bg: #ffffff;
+    --text: #1a1d21;
+    --text-muted: #6b7280;
+    --border: #e5e7eb;
+    --accent: #0f7a6c;
+    --danger: #c1443a;
+    --warn: #c9791f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; }
+  .subtitle { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 28px; max-width: 720px; line-height: 1.5; }
+  .section-title { font-size: 1.1rem; font-weight: 600; margin: 36px 0 14px; }
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+  }
+  .kpi-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .kpi-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px; }
+  .kpi-value { font-size: 1.6rem; font-weight: 700; }
+  .kpi-value.danger { color: var(--danger); }
+  .kpi-value.accent { color: var(--accent); }
+  .chart-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  @media (max-width: 760px) { .chart-grid { grid-template-columns: 1fr; } }
+  .chart-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .chart-card h3 { font-size: 0.95rem; margin: 0 0 12px; }
+  .chart-container { position: relative; height: 260px; }
+  .footer-note {
+    margin-top: 40px;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+    line-height: 1.6;
+  }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>WhatsApp AI Predictive Intelligence</h1>
+  <p class="subtitle">
+    Two predictive/AI-operations modules: merchant churn &amp; survival analysis (real B2B wholesale transaction data,
+    Online Retail II / UCI-Kaggle) and a conversational-AI intent monitor with drift detection (real, peer-reviewed
+    CLINC150 utterances). Full source, SQL, Python, and Power BI dashboard:
+    <a href="https://github.com/achi-vyshnavi28/whatsapp-ai-predictive-intelligence" target="_blank">GitHub repo</a>.
+  </p>
+
+  <div class="section-title">Merchant Churn &amp; Survival</div>
+  <div class="kpi-grid" id="churn-kpis"></div>
+
+  <div class="chart-grid" style="margin-top:16px;">
+    <div class="chart-card">
+      <h3>Accounts by RFM Segment</h3>
+      <div class="chart-container"><canvas id="segmentChart"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3>Health Score Risk Split</h3>
+      <div class="chart-container"><canvas id="riskChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="section-title">Conversational AI Intent Monitor</div>
+  <div class="kpi-grid" id="ai-kpis"></div>
+
+  <div class="chart-grid" style="margin-top:16px;">
+    <div class="chart-card">
+      <h3>Accuracy Trend by Batch (drift monitoring)</h3>
+      <div class="chart-container"><canvas id="driftChart"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3>Top Misclassification Patterns</h3>
+      <div class="chart-container"><canvas id="confusedChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="footer-note">
+    Data sources: <a href="https://archive.ics.uci.edu/dataset/502/online+retail+ii" target="_blank">Online Retail II</a>
+    (UCI ML Repository / Kaggle, real UK wholesale transactions) and
+    <a href="https://github.com/clinc/oos-eval" target="_blank">CLINC150</a> (Larson et al., EMNLP 2019 &mdash;
+    real, human-written, peer-reviewed intent-classification benchmark, not LLM-generated). Batch ordering and
+    one disclosed drift scenario in the conversational-AI module are simulated since that static benchmark
+    carries no timestamps; all underlying text and labels are real. Full methodology in the linked case study.
+  </div>
+</div>
+
+<script>
+fetch('data.json').then(r => r.json()).then(d => {
+  const fmtPct = v => (v * 100).toFixed(1) + '%';
+  const fmtNum = v => v.toLocaleString();
+  const fmtGBP = v => '£' + Math.round(v).toLocaleString();
+
+  document.getElementById('churn-kpis').innerHTML = `
+    <div class="kpi-card"><div class="kpi-label">Accounts</div><div class="kpi-value">${fmtNum(d.total_accounts)}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Churn Rate</div><div class="kpi-value danger">${fmtPct(d.churn_rate)}</div></div>
+    <div class="kpi-card"><div class="kpi-label">At-Risk Accounts</div><div class="kpi-value danger">${fmtNum(d.at_risk_accounts)}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Value at Risk</div><div class="kpi-value">${fmtGBP(d.value_at_risk)}</div></div>
+  `;
+
+  document.getElementById('ai-kpis').innerHTML = `
+    <div class="kpi-card"><div class="kpi-label">Conversations Classified</div><div class="kpi-value">${fmtNum(d.total_conversations)}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Accuracy</div><div class="kpi-value accent">${fmtPct(d.accuracy)}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Drift Alerts Fired</div><div class="kpi-value">${d.n_alerts} / ${d.n_batches}</div></div>
+    <div class="kpi-card"><div class="kpi-label">Intents Covered</div><div class="kpi-value">20</div></div>
+  `;
+
+  const segLabels = Object.keys(d.segments);
+  const segValues = Object.values(d.segments);
+  new Chart(document.getElementById('segmentChart'), {
+    type: 'bar',
+    data: { labels: segLabels, datasets: [{ data: segValues, backgroundColor: '#0f7a6c' }] },
+    options: { indexAxis: 'y', plugins: { legend: { display: false } }, scales: { x: { beginAtZero: true } } }
+  });
+
+  new Chart(document.getElementById('riskChart'), {
+    type: 'doughnut',
+    data: {
+      labels: ['At Risk', 'Healthy'],
+      datasets: [{ data: [d.at_risk_accounts, d.total_accounts - d.at_risk_accounts], backgroundColor: ['#c1443a', '#0f7a6c'] }]
+    },
+    options: { plugins: { legend: { position: 'bottom' } } }
+  });
+
+  new Chart(document.getElementById('driftChart'), {
+    type: 'line',
+    data: {
+      labels: d.batch_labels,
+      datasets: [{
+        label: 'Accuracy', data: d.batch_accuracy, borderColor: '#0f7a6c',
+        pointBackgroundColor: d.batch_alert.map(a => a ? '#c1443a' : '#0f7a6c'),
+        pointRadius: d.batch_alert.map(a => a ? 7 : 3), tension: 0.3
+      }]
+    },
+    options: { scales: { y: { ticks: { callback: v => (v * 100).toFixed(0) + '%' } } } }
+  });
+
+  new Chart(document.getElementById('confusedChart'), {
+    type: 'bar',
+    data: { labels: d.confused_pairs, datasets: [{ data: d.confused_counts, backgroundColor: '#c9791f' }] },
+    options: { indexAxis: 'y', plugins: { legend: { display: false } } }
+  });
+});
+</script>
+</body>
+</html>
