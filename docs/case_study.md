@@ -1,6 +1,6 @@
 # Case Study: Two AI Problems Every Conversational Commerce Platform Actually Has
 
-**Predictive merchant-health modeling and conversational-AI monitoring, built to demonstrate the two capabilities an "AI-powered operational platform for WhatsApp-first SMBs" needs beyond dashboards: knowing which merchants are about to leave, and knowing whether the AI agent talking to them is actually working.**
+**Predictive merchant-health modeling and conversational-AI monitoring, exploring two questions dashboards alone don't answer: which merchants are about to leave, and whether the AI agent talking to them is actually working.**
 
 ---
 

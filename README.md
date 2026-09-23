@@ -1,6 +1,6 @@
 # whatsapp-ai-predictive-intelligence
 
-Two predictive/AI-operations projects in one repository, built to demonstrate exactly what an **AI-powered operational platform for WhatsApp-first SMBs** needs beyond dashboards: a model that predicts merchant churn before it happens, and a system that monitors whether its own conversational AI agent is still working.
+Two predictive/AI projects exploring what dashboards alone don't answer: which merchants are quietly about to leave, and whether the AI agent handling customer conversations is actually still working.
 
 **Start here:** [`docs/case_study.md`](docs/case_study.md) — business question → findings → quantified impact → recommendations for both modules.
 
@@ -10,32 +10,28 @@ Two predictive/AI-operations projects in one repository, built to demonstrate ex
 
 Predicts which merchant accounts are about to go dormant, and quantifies the revenue at stake — using real B2B wholesale transaction data ([Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii), UCI/Kaggle, 1.07M real transactions).
 
-| Skill | Where |
-|---|---|
-| Complex SQL: joins, CTEs, window functions, subqueries | [`sql/02_analysis_queries.sql`](merchant_churn_survival/sql/02_analysis_queries.sql) — 9 queries incl. cohort retention, RFM, churn labeling |
-| Python EDA (Pandas, NumPy, Matplotlib/Seaborn) | [`python/eda_analysis.py`](merchant_churn_survival/python/eda_analysis.py) |
-| **Churn prediction** (explicitly named in the JD) | Logistic regression, 71.5% accuracy / 0.780 ROC-AUC |
-| Survival analysis (more advanced than standard churn ML) | Kaplan-Meier curves + Cox Proportional Hazards (`lifelines`) |
-| Cohort/retention analysis | Monthly cohort retention curves (SQL Q2) |
-| Composite Merchant Health Score | Blends churn probability + RFM into one worklist number |
-| Excel modeling | [`excel/churn_retention_model.xlsx`](merchant_churn_survival/excel/churn_retention_model.xlsx) — live formulas, retention-ROI what-if |
-| Anomaly detection | Documented data-quality find: 6,202 stock-adjustment rows with `price=0` that would have corrupted demand/churn features if unfiltered |
-| Live dashboard | `streamlit_app/app.py` — health scores, survival curve, at-risk merchant worklist |
+- **SQL** — 9 PostgreSQL queries covering cohort retention, RFM, and churn labeling using joins, CTEs, window functions, and subqueries ([`sql/`](merchant_churn_survival/sql/)).
+- **Python** — EDA with Pandas, NumPy, Matplotlib, and Seaborn ([`python/eda_analysis.py`](merchant_churn_survival/python/eda_analysis.py)).
+- **Churn prediction** — logistic regression, 71.5% accuracy / 0.780 ROC-AUC.
+- **Survival analysis** — Kaplan-Meier curves and a Cox Proportional Hazards model (`lifelines`).
+- **Cohort/retention analysis** — monthly cohort retention curves (SQL Q2).
+- **Composite Merchant Health Score** — blends churn probability and RFM into one worklist number.
+- **Excel modeling** — live formulas for a retention-ROI what-if model ([`excel/churn_retention_model.xlsx`](merchant_churn_survival/excel/churn_retention_model.xlsx)).
+- **Anomaly detection** — a documented data-quality find: 6,202 stock-adjustment rows with `price=0` that would have corrupted demand/churn features if left unfiltered.
+- **Live dashboard** — `streamlit_app/app.py`, showing health scores, the survival curve, and an at-risk merchant worklist.
 
 ## Project 2: `conversational_ai_monitor/`
 
-Simulates and monitors a WhatsApp AI agent's intent classification — using [CLINC150](https://github.com/clinc/oos-eval) (Larson et al., EMNLP 2019), a real, peer-reviewed, human-written benchmark (not LLM-generated), curated to 20 commerce/support-relevant intents + out-of-scope.
+Simulates and monitors a WhatsApp AI agent's intent classification — using [CLINC150](https://github.com/clinc/oos-eval) (Larson et al., EMNLP 2019), a real, peer-reviewed, human-written benchmark (not LLM-generated), curated to 20 commerce/support-relevant intents plus an out-of-scope class.
 
-| Skill | Where |
-|---|---|
-| NLP intent classification (nice-to-have) | TF-IDF + Logistic Regression, 89.5% accuracy / ~0.90 macro F1 across 20 intents |
-| Chatbot performance tracking (nice-to-have) | Confusion matrix, per-intent precision/recall/F1, misclassification-pattern analysis |
-| Confidence calibration | Reliability diagram + Brier score — a technique neither sibling repo uses |
-| Drift monitoring + alerting | Rolling accuracy vs. baseline, statistical alert rule, disclosed simulated scenario |
-| Firestore / NoSQL (nice-to-have) | [`python/build_firestore_documents.py`](conversational_ai_monitor/python/build_firestore_documents.py) + [`load_to_firestore.py`](conversational_ai_monitor/python/load_to_firestore.py) |
-| ETL (nice-to-have) | [`etl_to_structured_table.py`](conversational_ai_monitor/python/etl_to_structured_table.py) — NoSQL documents → structured PostgreSQL table (the reverse direction from typical SQL→NoSQL portfolios) |
-| SQL on the ETL'd table | [`sql/01_analysis_queries.sql`](conversational_ai_monitor/sql/01_analysis_queries.sql) — window-function drift detection, subqueries |
-| Live dashboard | `streamlit_app/pages/1_Conversational_AI_Monitor.py` — accuracy trend, drift flags, misclassification patterns |
+- **NLP intent classification** — TF-IDF + Logistic Regression, 89.5% accuracy / ~0.90 macro F1 across 20 intents.
+- **Chatbot performance tracking** — confusion matrix, per-intent precision/recall/F1, and misclassification-pattern analysis.
+- **Confidence calibration** — a reliability diagram and Brier score.
+- **Drift monitoring and alerting** — rolling accuracy vs. baseline with a statistical alert rule, against a disclosed simulated drift scenario.
+- **Firestore / NoSQL** — [`python/build_firestore_documents.py`](conversational_ai_monitor/python/build_firestore_documents.py) and [`load_to_firestore.py`](conversational_ai_monitor/python/load_to_firestore.py).
+- **ETL** — [`etl_to_structured_table.py`](conversational_ai_monitor/python/etl_to_structured_table.py), loading NoSQL documents into a structured PostgreSQL table (the reverse direction from a typical SQL-to-NoSQL pipeline).
+- **SQL** — [`sql/01_analysis_queries.sql`](conversational_ai_monitor/sql/01_analysis_queries.sql), window-function drift detection and subqueries against the ETL'd table.
+- **Live dashboard** — `streamlit_app/pages/1_Conversational_AI_Monitor.py`, showing accuracy trend, drift flags, and misclassification patterns.
 
 ## Data sources
 
@@ -89,7 +85,3 @@ python conversational_ai_monitor/python/load_to_firestore.py
 ```bash
 streamlit run streamlit_app/app.py
 ```
-
-## Notes on scope
-
-This repo deliberately covers churn/survival prediction and conversational-AI monitoring — the two capabilities its sibling repos ([whatsapp-order-ops-analytics](https://github.com/achi-vyshnavi28/whatsapp-order-ops-analytics), [smb-merchant-funnel-analytics](https://github.com/achi-vyshnavi28/smb-merchant-funnel-analytics)) don't touch — rather than adding a third layer of "operational analytics" on top of order-ops and acquisition-funnel work already covered elsewhere. Power BI dashboards are demonstrated in both sibling repos; this repo's live dashboard is Streamlit, consistent with the rest of the portfolio's deployment pattern.
